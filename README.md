@@ -26,7 +26,7 @@
 <table border="1">
     <thead>
         <th>CRITERIA</th>
-        <th>DESCRIPTION</th>
+        <th>DESCRIPTION/ Recommendations</th>
         <th>ONPAGE/ OFFPAGE</th>
         <th>GOOD</th>
         <th>MEDIUM</th>
@@ -85,7 +85,118 @@
             <td>&lt; 2</td>
         </tr>
         <tr>
-            <td colspan="6"><strong>BACK-LINKS / REFERENCES</strong></td>
+            <td colspan="6"><strong>SECURITY</strong></td>
+        </tr>
+        <tr>
+            <td>SSL-Expiration</td>
+            <td>Expiration date of the SSL certificate.<br>Recommendations: Update your security certificate regularly.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>CONTENT</strong></td>
+        </tr>
+        <tr>
+            <td>Number of words</td>
+            <td>Number of words in the HTML body.</td>
+            <td>onpage</td>
+            <td>&gt; 500</td>
+            <td>100 - 500</td>
+            <td>&lt; 100</td>
+        </tr>
+        <tr>
+            <td>Meta-Title (Page title)</td>
+            <td>The title tag has 10-70 characters.</td>
+            <td>onpage</td>
+            <td>&gt;10 and &lt;70</td>
+            <td>-</td>
+            <td>&lt;10 or &gt;70</td>
+        </tr>
+        <tr>
+            <td>Meta-Description</td>
+            <td>Meta-Description has &gt;40 and &lt;160 characters.</td>
+            <td>onpage</td>
+            <td>&gt; 40 and &lt;160</td>
+            <td>-</td>
+            <td>&lt;40 oder &gt;160</td>
+        </tr>
+        <tr>
+            <td>H1 heading</td>
+            <td>H1 once per page or once per section tag</td>
+            <td>onpage</td>
+            <td>&gt;2 per page or tag</td>
+            <td>-</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>H2 heading</td>
+            <td>H2 exists at least one time.</td>
+            <td>onpage</td>
+            <td>&gt;1</td>
+            <td>-</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Image Alt-Attribute</td>
+            <td>Images without alternative text.</td>
+            <td>onpage</td>
+            <td>0</td>
+            <td>20,00%</td>
+            <td>&gt;20,00%</td>
+        </tr>
+        <tr>
+            <td>LSO optimization level</td>
+            <td>Optimization level of the page topic.</td>
+            <td>onpage</td>
+            <td>&gt; 50%</td>
+            <td>50% - 20%</td>
+            <td>&lt; 20%</td>
+        </tr>
+        <tr>
+            <td>Relevance of metadata</td>
+            <td>Relevance of metadata to content.</td>
+            <td>onpage</td>
+            <td>&gt; 50%</td>
+            <td>50,00%</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>SERVER (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>HTTP STATUS CODE (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>PAGE SPEED (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>LOCALIZATION (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>JAVASCRIPT (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>CSS (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>MOBILE DEVICES (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>PERFORMANCE (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>INTERNAL LINKS (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>EXTERNAL LINKS (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>REDIRECTS (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>USABILITY (in progress)</strong></td>
         </tr>
     </tbody>
 </table>
