@@ -88,8 +88,32 @@
             <td colspan="6"><strong>SECURITY</strong></td>
         </tr>
         <tr>
-            <td>SSL-Expiration</td>
-            <td>Expiration date of the SSL certificate.<br>Recommendations: Update your security certificate regularly.</td>
+            <td>SSL Certificate - Expiration</td>
+            <td>Expiration date of the SSL certificate.<br>Recommendations: Update your SSL certificate regularly.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>SSL Certificate - Version</td>
+            <td>Protocol Version of the SSL certificate.<br>Recommendations: Update your SSL certificate to the latest version.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>SSL Certificate - Name</td>
+            <td>The name of the domain or subdomain under which your SSL certificate is registered must match with the name displayed in the address bar.<br>Recommendations: Install the right certificate. Subdomains require their own security certificates, so you can use a wildcard or multi-domain SSL certificate to protect multiple subdomains at once.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>SSL Certificate - Encryption algorithm</td>
+            <td>Using newer encryption algorithms on your website can avoid data security risks.<br>Recommendations: Update the encryption algorithm regularly.</td>
             <td>onpage</td>
             <td></td>
             <td></td>
