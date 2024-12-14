@@ -120,6 +120,46 @@
             <td></td>
         </tr>
         <tr>
+            <td>HTTPS-URLs in XML-Sitemap</td>
+            <td>Specify HTTPS URLs in the XML sitemap file.<br>Recommendations: Replace all HTTP URLs with HTTPS URLs in your XML sitemap.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>HTTPS encryption</td>
+            <td>Recommendations: Migrate your site to the secure HTTPS protocol.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>rel="canonical" from HTTPS to HTTP</td>
+            <td>Recommendations: Set up a 301 redirect from the HTTP to the HTTPS version of your website in the rel="canonical" attribute.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>HTTPS to HTTP redirect</td>
+            <td>Recommendations: Do not redirect secure HTTPS pages to insecure HTTP pages. If you add a redirect to an HTTPS page, make sure the redirected page loads over a secure HTTPS connection.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mixed content</td>
+            <td>Recommendations: Make sure that all page resources are loaded over a secure HTTPS connection.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>CONTENT</strong></td>
         </tr>
         <tr>
