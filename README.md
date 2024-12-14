@@ -143,15 +143,15 @@
             <td>Images without alternative text.</td>
             <td>onpage</td>
             <td>0</td>
-            <td>20,00%</td>
-            <td>&gt;20,00%</td>
+            <td>20%</td>
+            <td>&gt;20%</td>
         </tr>
         <tr>
             <td>LSO optimization level</td>
             <td>Optimization level of the page topic.</td>
             <td>onpage</td>
             <td>&gt; 50%</td>
-            <td>50% - 20%</td>
+            <td>20% - 50%</td>
             <td>&lt; 20%</td>
         </tr>
         <tr>
@@ -159,7 +159,7 @@
             <td>Relevance of metadata to content.</td>
             <td>onpage</td>
             <td>&gt; 50%</td>
-            <td>50,00%</td>
+            <td>50%</td>
             <td>0</td>
         </tr>
         <tr>
