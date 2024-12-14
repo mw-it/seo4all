@@ -22,6 +22,76 @@
 
 ## SEO (SEARCH ENGINE OPTIMIZATION)
 <details>
+    <summary>AUDIT</summary>
+<table border="1">
+    <thead>
+        <th>CRITERIA</th>
+        <th>DESCRIPTION</th>
+        <th>ONPAGE/ OFFPAGE</th>
+        <th>GOOD</th>
+        <th>MEDIUM</th>
+        <th>BAD</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="6"><strong>GENERAL</strong></td>
+        </tr>
+        <tr>
+            <td>Domain age</td>
+            <td>Age of the Domain in years</td>
+            <td></td>
+            <td>&gt; 5</td>
+            <td>2 - 5</td>
+            <td>&lt; 2</td>
+        </tr>
+        <tr>
+            <td>Alexa Ranking (Global)</td>
+            <td>Calculation of the generated backlink traffic</td>
+            <td></td>
+            <td>&lt; 10000</td>
+            <td>10000 - 100000</td>
+            <td>&gt; 100000</td>
+        </tr>
+        <tr>
+            <td>Alexa Ranking (National)</td>
+            <td>Calculation of the generated backlink traffic</td>
+            <td></td>
+            <td>&lt; 1000</td>
+            <td>1000 - 10000</td>
+            <td>&gt; 10000</td>
+        </tr>
+        <tr>
+            <td>Bing Index</td>
+            <td>Number of pages listed in the Bing Index</td>
+            <td></td>
+            <td>&gt; 1000</td>
+            <td>100 - 1000</td>
+            <td>&lt; 100</td>
+        </tr>
+        <tr>
+            <td>Google Index</td>
+            <td>Number of pages listed in the Google Index</td>
+            <td></td>
+            <td>&gt; 1000</td>
+            <td>100 - 1000</td>
+            <td>&lt; 100</td>
+        </tr>
+        <tr>
+            <td>Google PageRank</td>
+            <td>Importance of the domain (0-10)</td>
+            <td></td>
+            <td>&gt; 8</td>
+            <td>3 - 7</td>
+            <td>&lt; 2</td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>BACK-LINKS / REFERENCES</strong></td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+<details>
     <summary>FREE DIRECTORIES</summary>
     <ul>
         <li>A</li>
@@ -39,6 +109,7 @@
         <li>D</li>
         <li>dasoertliche.de</li>
         <li>dastelefonbuch.de</li>
+        <li>dmoz</li>
         <li>E</li>
         <li>F</li>
         <li>facebook.com</li>
@@ -85,9 +156,11 @@
         <li>web.de</li>
         <li>web2.cylex.de</li>
         <li>werkenntdenbesten.de</li>
+        <li>wikipedia</li>
         <li>wogibtswas.de</li>
         <li>X</li>
         <li>Y</li>
+        <li>yahoo</li>
         <li>yalwa.de</li>
         <li>yellowmap.de</li>
         <li>yelp.de</li>
