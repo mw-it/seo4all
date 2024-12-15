@@ -23,7 +23,7 @@
 
 ## SEO (SEARCH ENGINE OPTIMIZATION): ONPAGE & OFFPAGE
 <details>
-    <summary>AUDIT</summary>
+    <summary>AUDIT (CHECKLIST)</summary>
 <table border="1">
     <thead>
         <th>CRITERIA</th>
@@ -137,8 +137,8 @@
             <td></td>
         </tr>
         <tr>
-            <td>rel="canonical" from HTTPS to HTTP</td>
-            <td>Recommendations: Set up a 301 redirect from the HTTP to the HTTPS version of your website in the rel="canonical" attribute.</td>
+            <td>rel="canonical" from HTTP to HTTPS</td>
+            <td>Recommendations: Set up a 301 redirect from the HTTP to the HTTPS version of your website. In this case, you can be sure that search engines will rank HTTPS pages.</td>
             <td>onpage</td>
             <td></td>
             <td></td>
@@ -387,7 +387,26 @@
             <td>0</td>
         </tr>
         <tr>
+            <td colspan="6"><strong>CONTENT - FRAME</strong></td>
+        </tr>
+        <tr>
+            <td>Frame is used</td>
+            <td>Recommendations: Avoid using < frame > tags on the pages of the website that you want to index.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>CONTENT</strong></td>
+        </tr>
+        <tr>
+            <td>URL too long</td>
+            <td>Recommendations: The length of your URLs should be a maximum of 75 characters.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td>WWW redirect</td>
@@ -583,6 +602,41 @@
             <td></td>
         </tr>
         <tr>
+            <td colspan="6"><strong>LINKS - INDEXING</strong></td>
+        </tr>
+        <tr>
+            <td>Canonical Chain</td>
+            <td>Recommendations: Avoid using canonical chains, even though search engines claim they can crawl them without any problems. To avoid confusing search engine bots, you should point to a single canonical page whenever possible. This means you need to replace non-canonical links with direct links to canonical ones. For example, page A will link directly to page C as canonical, bypassing page B.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Blocked by noindex</td>
+            <td>Recommendations: Only use this directive on pages that you do not want to appear in search results. Make sure that these pages are not blocked by the robots.txt file. Otherwise, search engine bots will not be able to see the noindex directive, and if other websites link to these pages, they may appear in search results.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Blocked by nofollow</td>
+            <td>Recommendations: Only use the nofollow attribute if you don't want search engine bots to follow all links on a particular web page. Make sure that pages that use the nofollow attribute are not blocked by the robots.txt file. Otherwise, search engine bots will not be able to see the nofollow attribute.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Blocked by X-Robots-Tag</td>
+            <td>Recommendations: Make sure that any directive specified in the X-Robots-Tag header is applied to pages that you really don't want to be shown and/or contain links that you don't want search engine robots to follow. Also note that pages that contain indexing directives in the X-Robots-Tag header should not be blocked by the robots.txt file. Otherwise, search engine bots won't be able to see the directives.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>CSS</strong></td>
         </tr>
         <tr>
@@ -723,6 +777,14 @@
             <td colspan="6"><strong>PAGE SPEED / PERFORMANCE</strong></td>
         </tr>
         <tr>
+            <td>Timeout</td>
+            <td>Recommendations: Make sure that the pages that aren't accessible are loading correctly. If your website's pages take too long to load, it can negatively impact the user experience and also slow down the indexing of the page.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td>HTML too large</td>
             <td>Recommendations: Optimize by improving its structure. Remove unnecessary code elements, empty lines, whitespace, scripts and styles etc. For example, remove inline styles and move them to separate CSS files.</td>
             <td>onpage</td>
@@ -797,6 +859,25 @@
         <tr>
             <td>Total Blocking Time (TBT)</td>
             <td>Recommendations: Optimize the execution of long tasks. For example, split a large script into several smaller ones that are loaded gradually. Minify the code by removing unnecessary elements and splitting it into separate packages.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>HTTP HEADER</strong></td>
+        </tr>
+        <tr>
+            <td>HTML and HTTP headers contain noindex</td>
+            <td>Recommendations: Choose one of two ways to prevent the page from appearing in search results: either add the "noindex" tag to the HTML code (meta tag) of the page or use it in the HTTP request (X-Robots tag).</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>HTML and HTTP headers contain nofollow</td>
+            <td>Recommendations: Choose one of two ways to prevent search engines from indexing the links on the page: either add the "nofollow" attribute to the HTML code (meta tag) of the page or use it in the HTTP request (X-Robots tag).</td>
             <td>onpage</td>
             <td></td>
             <td></td>
