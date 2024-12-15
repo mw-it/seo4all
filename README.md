@@ -160,6 +160,68 @@
             <td></td>
         </tr>
         <tr>
+            <td colspan="6"><strong>SITEMAP (TXT or XML)</strong></td>
+        </tr>
+        <tr>
+            <td>Use Sitemap (txt or xml)</td>
+            <td>Recommendations: Create a sitemap in XML file format, add it to your website and submit the link with the position to search engines. You can create separate sitemaps in XML format for URLs, images, videos, news and mobile content.<br>OR: Create a sitemap in TXT file format and add a link URL per line.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>XML sitemap too large</td>
+            <td>Recommendations: Split your large XML sitemap file into smaller files. Then create a sitemap index file in XML file format, add links to each sitemap on your site, and submit the index file to Google. Make sure the location of your new XML sitemaps is included in the robots.txt file.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Non-canonical pages in XML sitemap</td>
+            <td>Recommendations: Make sure your XML sitemap contains only canonical URLs.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Noindex pages in XML sitemap</td>
+            <td>Recommendations: Depending on your goals, you should remove pages with the noindex meta tag from your XML sitemap or remove the noindex tag from those pages.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>XML sitemap not found in robots.txt file</td>
+            <td>Recommendations: Add a link to your XML sitemap file to the robots.txt file. To make sure search engines can index your XML sitemap file, check the sitemap report in Google Search Console.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>ROBOTS.TXT</strong></td>
+        </tr>
+        <tr>
+            <td>Use robots.txt</td>
+            <td>Recommendations: Create a robots.txt file and add it to the root directory of your website.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Blocked by robots.txt</td>
+            <td>Recommendations: Make sure that pages with valuable content are not accidentally blocked by the robots.txt file. If your goal is to prevent pages from being indexed by search engines, do not block such pages by the robots.txt file, but use the noindex directive instead.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>META PAGE TITLE</strong></td>
         </tr>
         <tr>
