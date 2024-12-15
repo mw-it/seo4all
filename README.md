@@ -418,6 +418,38 @@
             <td>&gt;20%</td>
         </tr>
         <tr>
+            <td>3XX Images</td>
+            <td>Recommendations: Specify the direct path to the image files, replacing each URL from which the redirect is established with relevant ones. If you are using images from an external resource and cannot replace the URLs, make sure that the images uploaded via the new URL are relevant to your content.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4XX Images (not found)</td>
+            <td>Recommendations: Check all URLs for broken images and replace the image URLs with relevant, currently working ones or remove the links to the broken images from your website.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>5XX Images (loading failed)</td>
+            <td>Recommendations: Check the URLs of all images that return a 5XX response code.<br>If these are your URLs, check the web server error log. If you regularly experience problems with server operation, identify the cause and eliminate it. Note that the problem may be temporary and means that technical work was performed on your server during the call.<br>If a 5XX response code is returned for URLs of images from an external resource, check that the resource is reliable. If the problem was triggered by technical work, you can continue using the image. If the site regularly experiences problems with web server accessibility, it is recommended to replace or delete the image.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>External Image files with 3XX, 4XX or 5XX</td>
+            <td>Recommendations: Contact the website operator and ask them to fix the errors.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>CONTENT - LINKS - INTERNAL</strong></td>
         </tr>
         <tr>
@@ -531,6 +563,30 @@
             <td></td>
         </tr>
         <tr>
+            <td>3XX CSS file</td>
+            <td>Recommendations: Specify the direct path to the CSS files, replacing each URL from which the redirect is established with relevant current ones.<br>If you are using CSS files from an external resource and cannot replace the URLs, make sure the URLs point to the correct files.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4XX or 5XX CSS file</td>
+            <td>Recommendations: Make sure that the path to the CSS files being called is correct and that the website's web server is working properly.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>External CSS files with 3XX, 4XX or 5XX</td>
+            <td>Recommendations: Contact the website operator and ask them to fix the errors.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>JAVASCRIPT</strong></td>
         </tr>
         <tr>
@@ -568,6 +624,30 @@
         <tr>
             <td>JAVASCRIPT minification</td>
             <td>Recommendations: Only load minified JAVASCRIPT files.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3XX JavaScript file</td>
+            <td>Recommendations: Specify the direct path to the JavaScript files, replacing each URL from which the redirect is established with relevant current ones.<br>If you are using JavaScript files from an external resource and cannot replace the URLs, make sure the URLs point to the correct files.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4XX or 5XX JavaScript file</td>
+            <td>Recommendations: Make sure that the path to the JavaScript files being called is correct and that the website's web server is working properly.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>External Javascript files with 3XX, 4XX or 5XX</td>
+            <td>Recommendations: Contact the website operator and ask them to fix the errors.</td>
             <td>onpage<br>offpage</td>
             <td></td>
             <td></td>
@@ -706,7 +786,119 @@
             <td></td>
         </tr>
         <tr>
-            <td colspan="6"><strong>HTTP STATUS CODE (in progress)</strong></td>
+            <td colspan="6"><strong>HTTP STATUS CODE</strong></td>
+        </tr>
+        <tr>
+            <td>4XX pages in XML sitemap</td>
+            <td>Recommendations: Remove URLs with 4xx response code from the XML sitemap. Make sure that the XML sitemap only contains URLs that return 200 OK response codes.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3XX pages in XML sitemap</td>
+            <td>Recommendations: Replace redirecting URLs in the XML sitemap with destination URLs. If a destination URL is already in the XML sitemap, you should delete URLs with 3XX redirects from the XML sitemap.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>5XX pages in XML sitemap</td>
+            <td>Recommendations: Make sure your XML sitemap contains up-to-date data and no pages with server error codes.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3XX Status-Code</td>
+            <td>Recommendations: Make sure that the number of 3XX pages on your website does not exceed 5% of the total number of pages. If their number exceeds 10%, then you have a critical problem and should immediately remove some of the redirects.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4XX-HTTP-Status-Code</td>
+            <td>Recommendations: Check the list of 4XX URLs and analyze each internal page that links to a 4XX URL. Remove such broken links or replace them with appropriate links to live and accessible pages. Also, you can set up 301 redirects when moving or deleting the website pages to avoid 4XX errors.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>5XX-HTTP-Status-Code</td>
+            <td>Recommendations: Analyze the list of URLs that return 5XX Server Response Codes. Try to reproduce the server error for these URLs through the browser. Also, check the server's error log. If this is a constant problem for many pages on your website, contact your hosting provider or web developer. Your server may be overloaded or misconfigured. It is also important to remember that this error may be a temporary problem and means that the website's server was undergoing maintenance while you were visiting.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Canonical URL results in a 3XX status code</td>
+            <td>Recommendations: Analyze the list of canonical URL pages that point to redirected pages. Replace canonical URLs that contain redirects with 200 OK pages that should be indexed and displayed in the SERPs.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Canonical URL with a 4XX status code</td>
+            <td>Recommendations: Review the list of pages with canonical links pointing to 4XX URLs. Replace such canonical URLs with links to the valid 200 OK version of the page that you want to index in search results.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Canonical URL with a 5XX status code</td>
+            <td>Recommendations: 5XX errors indicate that there is a problem with your web server. Contact your hosting provider or web developer as your server may be overloaded or misconfigured. You should also keep in mind that this may be a temporary problem. It is possible that the website's server was undergoing maintenance while you were trying to access it. If the wrong URL was specified as canonical, replace it with the link to the valid 200 OK page version that you want to have indexed in search results.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Internal links to 3XX redirect pages</td>
+            <td>Recommendations: Replace all internal links with current page URL addresses.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>External links to 3XX</td>
+            <td>Recommendations: Manually review each external 3XX link and make sure the redirected pages contain the desired information. If so, replace the link with the new version of the URL. If the desired information is not present, replace or delete the link from your website.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>External links to 4XX</td>
+            <td>Recommendations: Check all pages and remove or replace any broken links. All external links from your site should lead to pages with a 200 OK response code.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>External links to 5XX</td>
+            <td>Recommendations: Review all pages and remove or replace any broken links. If the site you are linking to has regular server unavailability issues, remove or replace links pointing to that site. All external links from your site should lead to pages with a 200 OK response code.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Hreflang to 3XX, 4XX or 5XX</td>
+            <td>Recommendations: Check URLs with 3XX, 4XX or 5XX response codes pointed to by hreflang attributes. Instead of these URLs, use pages that display the response code 200 OK.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td colspan="6"><strong>USABILITY</strong></td>
