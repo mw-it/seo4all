@@ -160,6 +160,111 @@
             <td></td>
         </tr>
         <tr>
+            <td colspan="6"><strong>META PAGE TITLE</strong></td>
+        </tr>
+        <tr>
+            <td>Meta Page Title</td>
+            <td>Recommendations: Write a unique and concise title for each page of the website and add the most relevant keywords to it.</td>
+            <td>onpage</td>
+            <td>&gt;10 and &lt;70</td>
+            <td>-</td>
+            <td>&lt;10 or &gt;70</td>
+        </tr>
+        <tr>
+            <td>Use the HTML title tag</td>
+            <td>Recommendations: Analyze all pages with an empty or missing<br>
+            "< title >" tag and write a unique and concise title for each page and add the most relevant keywords to it.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>URLs with duplicate page titles</td>
+            <td>Recommendations: Write a unique and concise title for each page of the website and add the most relevant keywords.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Multiple title tags</td>
+            <td>Recommendations: Remove unnecessary title tags. Choose only one unique title for each page.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Title too long</td>
+            <td>Recommendations: The title should be 60-70 characters long. Each word should be separated by a space. Describe succinctly what the page is about.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Title too short</td>
+            <td>Recommendations: The title should be 60-70 characters long. Each word should be separated by a space. Describe succinctly what the page is about.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>META DESCRIPTION</strong></td>
+        </tr>
+        <tr>
+            <td>Meta-Description</td>
+            <td>Meta-Description should have &gt;40 and &lt;160 characters.</td>
+            <td>onpage</td>
+            <td>&gt; 40 and &lt;160</td>
+            <td>-</td>
+            <td>&lt;40 oder &gt;160</td>
+        </tr>
+        <tr>
+            <td>Use the HTML meta description</td>
+            <td>Recommendations: Analyze all pages with an empty or missing<br>
+            "< meta name="description" content="Your unique page description." >" meta description<br>
+            and write a unique and concise description for each page and add the most relevant keywords to it.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>URLs with duplicate meta description</td>
+            <td>Recommendations: Write a unique and concise meta description for each page of the website and add the most relevant keywords.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Multiple meta descriptions</td>
+            <td>Recommendations: Remove unnecessary meta descriptions. Choose only one unique description for each page.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Meta description too long</td>
+            <td>Recommendations: The meta description should be 40-160 characters long. Each word should be separated by a space. Describe succinctly what the page is about.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Meta description too short</td>
+            <td>Recommendations: The meta description should be 40-160 characters long. Each word should be separated by a space. Describe succinctly what the page is about.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>CONTENT</strong></td>
         </tr>
         <tr>
@@ -203,14 +308,6 @@
             <td></td>
         </tr>
         <tr>
-            <td>Meta-Title (Page title)</td>
-            <td>Recommendations: Write a unique and concise title for each page of the website and add the most relevant keywords.</td>
-            <td>onpage</td>
-            <td>&gt;10 and &lt;70</td>
-            <td>-</td>
-            <td>&lt;10 or &gt;70</td>
-        </tr>
-        <tr>
             <td>URLs with duplicate page titles</td>
             <td>The title tag has 10-70 characters.</td>
             <td>onpage</td>
@@ -225,14 +322,6 @@
             <td>&gt; 500</td>
             <td>100 - 500</td>
             <td>&lt; 100</td>
-        </tr>
-        <tr>
-            <td>Meta-Description</td>
-            <td>Meta-Description has &gt;40 and &lt;160 characters.</td>
-            <td>onpage</td>
-            <td>&gt; 40 and &lt;160</td>
-            <td>-</td>
-            <td>&lt;40 oder &gt;160</td>
         </tr>
         <tr>
             <td>H1 heading</td>
@@ -251,22 +340,6 @@
             <td>0</td>
         </tr>
         <tr>
-            <td>Image too large</td>
-            <td>Recommendations: Optimize your images and try to reduce the size of the images without losing their quality. Use e. g. WEBP or SVG.</td>
-            <td>onpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Image Alt-Attribute</td>
-            <td>Images without alternative text. Recommendations: Write precise and relevant alt text for each image.</td>
-            <td>onpage</td>
-            <td>0</td>
-            <td>20%</td>
-            <td>&gt;20%</td>
-        </tr>
-        <tr>
             <td>LSO optimization level</td>
             <td>Optimization level of the page topic.</td>
             <td>onpage</td>
@@ -281,6 +354,25 @@
             <td>&gt; 50%</td>
             <td>50%</td>
             <td>0</td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>IMAGES</strong></td>
+        </tr>
+        <tr>
+            <td>Image too large</td>
+            <td>Recommendations: Optimize your images and try to reduce the size of the images without losing their quality. Use e. g. WEBP or SVG.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Image Alt-Attribute</td>
+            <td>Images without alternative text. Recommendations: Write precise and relevant alt text for each image.</td>
+            <td>onpage</td>
+            <td>0</td>
+            <td>20%</td>
+            <td>&gt;20%</td>
         </tr>
         <tr>
             <td colspan="6"><strong>SERVER (in progress)</strong></td>
@@ -381,6 +473,69 @@
             <td></td>
         </tr>
         <tr>
+            <td colspan="6"><strong>PERFORMANCE (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>LINKS - INTERNAL (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>LINKS - EXTERNAL</strong></td>
+        </tr>
+        <tr>
+            <td>Anchor/Link text</td>
+            <td>Recommendations: Make sure that all links contain an anchor/link text. Use concise wording in anchor/link texts.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Nofollow</td>
+            <td>Recommendations: Make sure that all external links tagged with the rel="nofollow" attribute really need to be tagged with this attribute. Google recommends using the rel="sponsored" attribute for sponsored links and the rel="ugc" attribute for user-generated content in links (e.g. comments). The rel="nofollow" attribute makes it clear to search engines that you do not want your page to link to the website you are linking to.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Timeout</td>
+            <td>Recommendations: Make sure that all links to external sites work correctly.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>REDIRECTS (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>USABILITY</strong></td>
+        </tr>
+        <tr>
+            <td>Favicon</td>
+            <td>Recommendations: Add a favicon to your website.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Flash</td>
+            <td>Recommendations: Use HTML5 instead of Flash on your website.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Twitter-Card-Tag</td>
+            <td>Recommendations: Use the Twitter Card tag to make the links to your pages that you share in your Twitter feed look attractive. IMPORTANT: The URLs inside the Twitter Card tags must be absolute and use the http:// or https:// protocols.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>MOBILE DEVICES</strong></td>
         </tr>
         <tr>
@@ -416,21 +571,6 @@
             <td></td>
             <td></td>
             <td></td>
-        </tr>
-        <tr>
-            <td colspan="6"><strong>PERFORMANCE (in progress)</strong></td>
-        </tr>
-        <tr>
-            <td colspan="6"><strong>INTERNAL LINKS (in progress)</strong></td>
-        </tr>
-        <tr>
-            <td colspan="6"><strong>EXTERNAL LINKS (in progress)</strong></td>
-        </tr>
-        <tr>
-            <td colspan="6"><strong>REDIRECTS (in progress)</strong></td>
-        </tr>
-        <tr>
-            <td colspan="6"><strong>USABILITY (in progress)</strong></td>
         </tr>
         <tr>
             <td colspan="6"><strong>AMP (Accelerated Mobile Pages)</strong></td>
