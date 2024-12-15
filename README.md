@@ -49,32 +49,32 @@
             <td>Alexa Ranking (Global)</td>
             <td>Calculation of the generated backlink traffic</td>
             <td></td>
-            <td>&lt;10000</td>
-            <td>10000 - 100000</td>
-            <td>&gt;100000</td>
+            <td>&lt;10K</td>
+            <td>10K - 100K</td>
+            <td>&gt;100K</td>
         </tr>
         <tr>
             <td>Alexa Ranking (National)</td>
             <td>Calculation of the generated backlink traffic</td>
             <td></td>
-            <td>&lt;1000</td>
-            <td>1000 - 10000</td>
-            <td>&gt;10000</td>
+            <td>&lt;1K</td>
+            <td>1K - 10K</td>
+            <td>&gt;10K</td>
         </tr>
         <tr>
             <td>Bing Index</td>
             <td>Number of pages listed in the Bing Index</td>
             <td></td>
-            <td>&gt;1000</td>
-            <td>100 - 1000</td>
+            <td>&gt;1K</td>
+            <td>100 - 1K</td>
             <td>&lt;100</td>
         </tr>
         <tr>
             <td>Google Index</td>
             <td>Number of pages listed in the Google Index</td>
             <td></td>
-            <td>&gt;1000</td>
-            <td>100 - 1000</td>
+            <td>&gt;1K</td>
+            <td>100 - 1K</td>
             <td>&lt;100</td>
         </tr>
         <tr>
@@ -178,6 +178,14 @@
             <td></td>
             <td></td>
             <td></td>
+        </tr>
+        <tr>
+            <td>sitemap.xml / sitemapindex.xml</td>
+            <td>Present and error-free</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
         </tr>
         <tr>
             <td>XML sitemap too large</td>
@@ -291,7 +299,7 @@
             <td>onpage</td>
             <td>&gt;40 and &lt;160</td>
             <td>-</td>
-            <td>&lt;40 oder &gt;160</td>
+            <td>&lt;40 or &gt;160</td>
         </tr>
         <tr>
             <td>Use the HTML meta description</td>
@@ -540,7 +548,26 @@
             <td></td>
         </tr>
         <tr>
+            <td colspan="6"><strong>CONTENT - LINKS</strong></td>
+        </tr>
+        <tr>
+            <td>Nofollow Links</td>
+            <td>Website has less than 10% nofollow links in relation to all links</td>
+            <td></td>
+            <td>&lt;10%</td>
+            <td>10% - 30%</td>
+            <td>&gt;30%</td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>CONTENT - LINKS - INTERNAL</strong></td>
+        </tr>
+        <tr>
+            <td>Internal Links</td>
+            <td>Website has less than 100 internal links</td>
+            <td></td>
+            <td>&gt;50 and &lt;100</td>
+            <td>10 - 50</td>
+            <td>&lt;10</td>
         </tr>
         <tr>
             <td>Anchor/Link text</td>
@@ -584,6 +611,14 @@
         </tr>
         <tr>
             <td colspan="6"><strong>CONTENT - LINKS - EXTERNAL</strong></td>
+        </tr>
+        <tr>
+            <td>External Links</td>
+            <td>Website has less than 10% external links in relation to all links</td>
+            <td></td>
+            <td>&lt;10%</td>
+            <td>10% - 30%</td>
+            <td>&gt;30%</td>
         </tr>
         <tr>
             <td>Anchor/Link text</td>
