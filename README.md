@@ -293,7 +293,7 @@
         </tr>
         <tr>
             <td>Duplicate H1 headings</td>
-            <td>Recommendations: Write a unique <h1> for each page on your website and add a clear description of the page's content.</td>
+            <td>Recommendations: Write a unique < h1 > for each page on your website and add a clear description of the page's content.</td>
             <td>onpage</td>
             <td></td>
             <td></td>
@@ -309,7 +309,7 @@
         </tr>
         <tr>
             <td>H2 heading</td>
-            <td>H2 tag exists at least one time and is filled with concise text. Recommendations: For pages with <h2> header tags, make sure that these tags are filled with concise text that briefly describes the main content of the following block. Depending on the website type and page structure, there may be more than one <h2> tag, but IMPORTANT: Your pages must be logically structured.</td>
+            <td>H2 tag exists at least one time and is filled with concise text. Recommendations: For pages with < h2 > header tags, make sure that these tags are filled with concise text that briefly describes the main content of the following block. Depending on the website type and page structure, there may be more than one < h2 > tag, but IMPORTANT: Your pages must be logically structured.</td>
             <td>onpage</td>
             <td>&gt;1</td>
             <td>-</td>
