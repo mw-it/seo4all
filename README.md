@@ -1255,6 +1255,20 @@
             <td></td>
             <td></td>
         </tr>
+        <tr>
+            <td colspan="6"><strong>SOCIAL MEDIA (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>SEM POTENTIAL</strong></td>
+        </tr>
+        <tr>
+            <td>Google AdWords Quality-Score</td>
+            <td>Quality-Score for the existing keywords.</td>
+            <td></td>
+            <td>&gt;7</td>
+            <td>3 - 7</td>
+            <td>&lt;3</td>
+        </tr>
     </tbody>
 </table>
 </details>
