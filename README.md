@@ -251,8 +251,16 @@
             <td>0</td>
         </tr>
         <tr>
+            <td>Image too large</td>
+            <td>Recommendations: Optimize your images and try to reduce the size of the images without losing their quality. Use e. g. WEBP or SVG.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td>Image Alt-Attribute</td>
-            <td>Images without alternative text.</td>
+            <td>Images without alternative text. Recommendations: Write precise and relevant alt text for each image.</td>
             <td>onpage</td>
             <td>0</td>
             <td>20%</td>
