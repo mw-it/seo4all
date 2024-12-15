@@ -1333,6 +1333,113 @@
             <td>3 - 7</td>
             <td>&lt;3</td>
         </tr>
+        <tr>
+            <td colspan="6"><strong>BACKLINKS / REFERENCES</strong></td>
+        </tr>
+        <tr>
+            <td>Wikipedia Backlinks</td>
+            <td>Number of backlinks in the Wikipedia</td>
+            <td></td>
+            <td>&gt;3</td>
+            <td>1 - 2</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Dmoz Backlinks</td>
+            <td>Number of backlinks in DMoz</td>
+            <td></td>
+            <td>&gt;3</td>
+            <td>1 - 2</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Yahoo Verzeichnis Links</td>
+            <td>Number of backlinks in the Yahoo Verzeichnis</td>
+            <td></td>
+            <td>&gt;3</td>
+            <td>1 - 2</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Google Backlink-Index</td>
+            <td>Number of backlinks in the Google Index</td>
+            <td></td>
+            <td>&gt;100</td>
+            <td>10 - 100</td>
+            <td>&lt;10</td>
+        </tr>
+        <tr>
+            <td>Bing Backlink-Index</td>
+            <td>Number of backlinks in the Bing Index</td>
+            <td></td>
+            <td>&gt;100</td>
+            <td>10 - 100</td>
+            <td>&lt;10</td>
+        </tr>
+        <tr>
+            <td>Alexa Backlink-Index</td>
+            <td>Number of backlinks in the Alexa index</td>
+            <td></td>
+            <td>&gt;1K</td>
+            <td>10 - 1K</td>
+            <td>&lt;10</td>
+        </tr>
+        <tr>
+            <td>Root-/Homepage Backlinks</td>
+            <td>All backlinks that lead to the root/homepage</td>
+            <td></td>
+            <td>&gt;100K</td>
+            <td>100K - 1K</td>
+            <td>&lt;1K</td>
+        </tr>
+        <tr>
+            <td>Deep-/Subpages Backlinks</td>
+            <td>All backlinks that lead to deep/subpages</td>
+            <td></td>
+            <td>&gt; 100K</td>
+            <td>1K - 100K</td>
+            <td>&lt;1K</td>
+        </tr>
+        <tr>
+            <td>IP Backlinks</td>
+            <td>All backlinks from other IP domains</td>
+            <td></td>
+            <td>&gt;2.5K</td>
+            <td>500 - 2.5K</td>
+            <td>&lt;500</td>
+        </tr>
+        <tr>
+            <td>C-Block Backlinks</td>
+            <td>All backlinks from other C-Block domains</td>
+            <td></td>
+            <td>&gt;5K</td>
+            <td>1K - 5K</td>
+            <td>&lt;1K</td>
+        </tr>
+        <tr>
+            <td>All public backlinks</td>
+            <td>All publicly recorded backlinks</td>
+            <td></td>
+            <td>&gt;2 Mio.</td>
+            <td>10K - 2 Mio.</td>
+            <td>&lt;10K</td>
+        </tr>
+        <tr>
+            <td>Natural-looking link profile</td>
+            <td>Even source distribution of link industries</td>
+            <td></td>
+            <td>Uneven</td>
+            <td>~</td>
+            <td>Evenly</td>
+        </tr>
+        <tr>
+            <td>Variationen von Ankertexten</td>
+            <td>Verschiedene Verwendung von Ankertexten</td>
+            <td></td>
+            <td>Uneven</td>
+            <td>~</td>
+            <td>Evenly</td>
+        </tr>
     </tbody>
 </table>
 </details>
