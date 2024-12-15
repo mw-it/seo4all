@@ -388,11 +388,6 @@
 </details>
 
 <details>
-    <summary>how to support seo4all with modules?</summary>
-    <p>you are welcome. you can support us with creating new or extending existing checklists, documents (templates) for seo4all.</p>
-</details>
-
-<details>
     <summary>how to become a sponsor of seo4all?</summary>
     <p>you are welcome. just follow the link to <a href="https://donate.stripe.com/dR67tKff29ht3Cg145" target="_blank">give something back</a></p>
 </details>
