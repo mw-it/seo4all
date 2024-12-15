@@ -399,7 +399,7 @@
             <td>0</td>
         </tr>
         <tr>
-            <td colspan="6"><strong>IMAGES</strong></td>
+            <td colspan="6"><strong>CONTENT - IMAGES</strong></td>
         </tr>
         <tr>
             <td>Image too large</td>
@@ -418,7 +418,7 @@
             <td>&gt;20%</td>
         </tr>
         <tr>
-            <td colspan="6"><strong>LINKS - INTERNAL</strong></td>
+            <td colspan="6"><strong>CONTENT - LINKS - INTERNAL</strong></td>
         </tr>
         <tr>
             <td>Anchor/Link text</td>
@@ -461,7 +461,7 @@
             <td></td>
         </tr>
         <tr>
-            <td colspan="6"><strong>LINKS - EXTERNAL</strong></td>
+            <td colspan="6"><strong>CONTENT - LINKS - EXTERNAL</strong></td>
         </tr>
         <tr>
             <td>Anchor/Link text</td>
@@ -982,10 +982,10 @@
 </details>
 
 ## find + follow + support
-+ web: https://seo4all.org
-+ mail: mail@seo4all.org
-+ github: https://github.com/mw-it/seo4all
-+ donation: https://donate.stripe.com/dR67tKff29ht3Cg145
++ <a href="https://seo4all.org" target="_blank">https://seo4all.org</a>
++ <a href="mailto:mail@seo4all.org" target="_blank">Email</a>
++ <a href="https://github.com/mw-it/seo4all" target="_blank">GitHub</a>
++ <a href="https://donate.stripe.com/dR67tKff29ht3Cg145" target="_blank">Donation</a>
 
 ## copyright + license
 Copyright &copy; by <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a><br>
