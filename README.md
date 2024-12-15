@@ -771,7 +771,87 @@
             <td></td>
         </tr>
         <tr>
-            <td colspan="6"><strong>LOCALIZATION (in progress)</strong></td>
+            <td colspan="6"><strong>LOCALIZATION</strong></td>
+        </tr>
+        <tr>
+            <td>Invalid language code</td>
+            <td>Recommendations: Review all pages and specify the correct page language codes. Follow ISO 639-1 format for attributes specifying the language and ISO 3166-1 Alpha 2 format for attributes specifying the region.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Hreflang page does not link to itself</td>
+            <td>Recommendations: Add the missing hreflang attribute and link to the code so that the page points to itself. For example, a German version of a page should have the rel="alternate" hreflang="de" attribute and link to that version of the page.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Hreflang to non-canonical</td>
+            <td>Recommendations: Check all pages and change the hreflang attribute so that the URL points to the canonical version of the page.<br>If the URL that the hreflang attribute points to is indeed canonical, change the rel="canonical" attribute. In any case, both the hreflang and rel="canonical" attributes must point to the same URL, which you consider to be the main URL. If the page does not have different versions, the rel="canonical" attribute can be removed.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Hreflang and HTML lang do not match</td>
+            <td>Recommendations: Check all pages and make sure that the hreflang and HTML lang attributes use the same language code.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Confirmation links (return links) are missing on Hreflang pages</td>
+            <td>Recommendations: To fix this error, use the same set of < URL >, rel="alternate" and hreflang values ​​on all language or regional versions of the page. This way, all hreflang pages will have backlinks to other versions of the page.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Multiple language codes for one page</td>
+            <td>Recommendations: Check all pages and remove the unnecessary hreflang attribute or replace the language code with the correct one.<br>You cannot specify more than one language code for a single URL, but you can specify multiple regions for the chosen language version, e.g. en-us, en-gb, etc.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Invalid HTML lang</td>
+            <td>Recommendations: Review all pages and specify the correct HTML lang attribute using the correct language or regional version codes.<br>Adhere to ISO 639-1 format for attributes specifying the language and ISO 3166-1 Alpha 2 format for attributes specifying the region.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Double Languages ​​in Hreflang</td>
+            <td>Recommendations: Check all pages and correct the hreflang attributes so that each URL has a single language code.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>HTML lang missing</td>
+            <td>Recommendations: Use the HTML lang attribute to specify which language the page's text is written in and/or which region the page is intended for.<br>Follow ISO 639-1 format for attributes specifying the language and ISO 3166-1 Alpha 2 format for attributes specifying the region.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>X-default hreflang attribute missing</td>
+            <td>Recommendations: Create a special backup page for languages ​​that are not supported on your site and add it to the hreflang attribute using the x-default tag.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td colspan="6"><strong>PAGE SPEED / PERFORMANCE</strong></td>
