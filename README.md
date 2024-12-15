@@ -163,6 +163,46 @@
             <td colspan="6"><strong>CONTENT</strong></td>
         </tr>
         <tr>
+            <td>WWW redirect</td>
+            <td>Recommendations: If necessary, redirect all non-www URLs on your site to www.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Multiple rel="canonical"</td>
+            <td>Recommendations: Remove all canonical URLs except the URL you want to use as the truly canonical version of the page.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Duplicate content</td>
+            <td>Recommendations: Make the content unique on a double page.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>URLs with double slashes</td>
+            <td>Recommendations: Make sure you have configured a server-side redirect with a forward slash. Check which pages on your website have links to such pages and replace such links with correct ones to avoid unnecessary redirects.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Trailing slashes in URLs</td>
+            <td>Recommendations: Set up server redirects so that your pages are always accessible either with or without a trailing slash.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td>Meta-Title (Page title)</td>
             <td>Recommendations: Write a unique and concise title for each page of the website and add the most relevant keywords.</td>
             <td>onpage</td>
