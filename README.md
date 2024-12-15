@@ -546,7 +546,47 @@
             <td></td>
         </tr>
         <tr>
-            <td colspan="6"><strong>REDIRECTS (in progress)</strong></td>
+            <td colspan="6"><strong>REDIRECTS</strong></td>
+        </tr>
+        <tr>
+            <td>Meta-Refresh-Redirect</td>
+            <td>Recommendations: If you don't absolutely need to use the meta refresh redirect tag, remove it and set up a 301 server-side redirect instead.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Redirect chain</td>
+            <td>Recommendations: Remove unnecessary links from the chain by setting up a redirect from the first version of the page directly to the current address of the page.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Redirect loop</td>
+            <td>Recommendations: Remove redirects so that the page returns a 200 OK response code. If you must use redirects, change the address of the redirect landing page to the correct address. This page should return the 200 OK response code and it should not have a redirect.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Temporary redirects (302, 303, 307)</td>
+            <td>Recommendations: Make sure you don't accidentally use 302, 303 or 307 redirects (e.g. for split testing). Remove temporary redirects when they are no longer needed. If the page address has changed forever, set up 301 redirects instead.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Redirect to 4xx or 5xx</td>
+            <td>Recommendations: If the page returns a 4XX response code, replace the address of the target redirect page with the appropriate address. A 5XX response code indicates that there is a problem with the page's web server. The error may be temporary and mean that technical work was performed on your server during a request. Check the web server's error log. If server problems occur regularly, determine the cause and fix it.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td colspan="6"><strong>USABILITY</strong></td>
