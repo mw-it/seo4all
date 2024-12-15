@@ -265,6 +265,65 @@
             <td></td>
         </tr>
         <tr>
+            <td colspan="6"><strong>CONTENT - Headings</strong></td>
+        </tr>
+        <tr>
+            <td>H1 heading</td>
+            <td>H1 once per page or once per section tag<br>Recommendations: Make sure all your web pages have a < h1 > header tag filled with concise, relevant and unique text. Depending on the type of website and page structure, there may be more than one < h1 > tag, but it is highly recommended to use only one < h1 > tag per page. IMPORTANT: Your pages must be logically structured.</td>
+            <td>onpage</td>
+            <td>1 per page (or section tag)</td>
+            <td>-</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>H1 heading too long</td>
+            <td>Recommendations: Make sure all your web pages have a < h1 > header tag filled with concise, relevant and unique text.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Multiple H1 headings</td>
+            <td>Recommendations: If possible, use a single < h1 > tag on a page. This way, the structure of the page will be clear to all search engines.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Duplicate H1 headings</td>
+            <td>Recommendations: Write a unique <h1> for each page on your website and add a clear description of the page's content.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Identical H1 / title tag</td>
+            <td>Recommendations: Use different texts in the < title > and < h1 > tags.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>H2 heading</td>
+            <td>H2 tag exists at least one time and is filled with concise text. Recommendations: For pages with <h2> header tags, make sure that these tags are filled with concise text that briefly describes the main content of the following block. Depending on the website type and page structure, there may be more than one <h2> tag, but IMPORTANT: Your pages must be logically structured.</td>
+            <td>onpage</td>
+            <td>&gt;1</td>
+            <td>-</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>H2 heading too long</td>
+            <td>Recommendations: For pages with <h2> header tags, make sure that these tags are filled with concise text that briefly describes the main content of the following block.</td>
+            <td>onpage</td>
+            <td>&gt;1</td>
+            <td>-</td>
+            <td>0</td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>CONTENT</strong></td>
         </tr>
         <tr>
@@ -317,27 +376,11 @@
         </tr>
         <tr>
             <td>Number of words</td>
-            <td>Number of words in the HTML body.</td>
+            <td>Number of words in the HTML body.<br>Recommendations: The content should be more than 300 words. Make sure the text on the page fully reveals the topic or describes the products featured on the page in detail. Write a unique text for each page and add the most relevant keywords to it.</td>
             <td>onpage</td>
             <td>&gt; 500</td>
-            <td>100 - 500</td>
-            <td>&lt; 100</td>
-        </tr>
-        <tr>
-            <td>H1 heading</td>
-            <td>H1 once per page or once per section tag</td>
-            <td>onpage</td>
-            <td>&gt;2 per page or tag</td>
-            <td>-</td>
-            <td>0</td>
-        </tr>
-        <tr>
-            <td>H2 heading</td>
-            <td>H2 exists at least one time.</td>
-            <td>onpage</td>
-            <td>&gt;1</td>
-            <td>-</td>
-            <td>0</td>
+            <td>300 - 500</td>
+            <td>&lt; 300</td>
         </tr>
         <tr>
             <td>LSO optimization level</td>
