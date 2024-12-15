@@ -683,6 +683,22 @@
             <td colspan="6"><strong>CSS</strong></td>
         </tr>
         <tr>
+            <td>CSS Errors</td>
+            <td>Number of CSS Errors</td>
+            <td></td>
+            <td>0</td>
+            <td>0 - 10</td>
+            <td>&gt;10</td>
+        </tr>
+        <tr>
+            <td>CSS Warnings</td>
+            <td>Number of CSS Warnings</td>
+            <td></td>
+            <td>0</td>
+            <td>0 - 10</td>
+            <td>&gt;10</td>
+        </tr>
+        <tr>
             <td>CSS too big</td>
             <td>Recommendations: Optimize the code of every large CSS file.</td>
             <td>onpage<br>offpage</td>
@@ -1264,12 +1280,12 @@
             <td></td>
         </tr>
         <tr>
-            <td>Minimum text-to-HTML ratio</td>
+            <td>Minimum Text to Code/HTML ratio</td>
             <td>Recommendations: To reduce page size and speed up page loading time, shorten HTML code. For example, remove all unnecessary comments, spaces and blank lines.</td>
             <td>onpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>&gt;50%</td>
+            <td>25% - 50%</td>
+            <td>&lt;25%</td>
         </tr>
         <tr>
             <td colspan="6"><strong>AMP (Accelerated Mobile Pages)</strong></td>
