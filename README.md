@@ -424,6 +424,73 @@
         <tr>
             <td colspan="6"><strong>USABILITY (in progress)</strong></td>
         </tr>
+        <tr>
+            <td colspan="6"><strong>AMP (Accelerated Mobile Pages)</strong></td>
+        </tr>
+        <tr>
+            <td>Use AMP pages</td>
+            <td>Recommendations: Plan to add AMP pages to your website. They can help your website load faster on mobile devices and improve the user experience.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Blocked by robots.txt</td>
+            <td>Recommendations: Make sure AMP pages are not blocked in your robots.txt file. Check if you need to enter login credentials to access AMP pages.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>AMP-Page Domain-Mismatch</td>
+            <td>Recommendations: Use the same domains for the AMP page and its canonical version. Host the canonical page (mypage.com/images) and the AMP page (amp.mysite.com/tables or mypage.com/amp/images) on the same domain.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Error in rejection</td>
+            <td>Recommendations: Replace deprecated elements that are no longer supported with modern elements that comply with the current AMP specification.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>AMP HTML tag error</td>
+            <td>Recommendations: Fix any AMP HTML tag errors to ensure pages conform to AMP guidelines and display correctly.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>AMP HTML attribute error</td>
+            <td>Recommendations: Fix any AMP HTML attribute errors to ensure pages conform to AMP guidelines and display correctly.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Errors in Layout/Style</td>
+            <td>Recommendations: Fix any errors found in layout and styles to ensure pages comply with AMP guidelines and display correctly.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Template Errors</td>
+            <td>Recommendations: Does an attribute contain mustache template syntax? Remove it.<br>Does an attribute contain unhighlighted template syntax? Highlight the mustache template.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 </details>
