@@ -10,7 +10,7 @@
 
 <p><strong>what do you get:</strong></p>
 
-+ ✔️ free checklists
++ ✔️ free checklist
 + ✔️ free documents (how to's / templates)
 + ✔️ free directories
 + ✔️ free link building tips
@@ -19,8 +19,9 @@
 + ✔️ free tools
 + ✔️ free website audit tips
 + ✔️ seo4all BOOK (planning)
++ ✔️ **All tips, tricks and recommendations are tried and tested in real environments and on successful websites that have generated at least 15+ million euros in annual sales 💰!!!**
 
-## SEO (SEARCH ENGINE OPTIMIZATION)
+## SEO (SEARCH ENGINE OPTIMIZATION): ONPAGE & OFFPAGE
 <details>
     <summary>AUDIT</summary>
 <table border="1">
@@ -1185,16 +1186,6 @@
         <li>. . .</li>
         <li> do you know more free directories? let us know. help us to grow and extend seo4all.</li>
     </ul>
-</details>
-
-<details>
-    <summary>ONPAGE SEO</summary>
-    <p>...in progress. content coming soon.</p>
-</details>
-
-<details>
-    <summary>OFFPAGE SEO</summary>
-    <p>...in progress. content coming soon.</p>
 </details>
 
 <details>
