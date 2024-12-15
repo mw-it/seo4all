@@ -375,107 +375,6 @@
             <td>&gt;20%</td>
         </tr>
         <tr>
-            <td colspan="6"><strong>SERVER (in progress)</strong></td>
-        </tr>
-        <tr>
-            <td colspan="6"><strong>HTTP STATUS CODE (in progress)</strong></td>
-        </tr>
-        <tr>
-            <td colspan="6"><strong>PAGE SPEED (in progress)</strong></td>
-        </tr>
-        <tr>
-            <td colspan="6"><strong>LOCALIZATION (in progress)</strong></td>
-        </tr>
-        <tr>
-            <td colspan="6"><strong>JAVASCRIPT</strong></td>
-        </tr>
-        <tr>
-            <td>JAVASCRIPT too big</td>
-            <td>Recommendations: Optimize the code of every large JAVASCRIPT file.</td>
-            <td>onpage<br>offpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Compress JAVASCRIPT</td>
-            <td>Recommendations: Configure server-side JAVASCRIPT compression. Only load external resources if they are provided in compressed form.</td>
-            <td>onpage<br>offpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>JAVASCRIPT caching</td>
-            <td>Recommendations: Configure caching of your JAVASCRIPT files.</td>
-            <td>onpage<br>offpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Too many JAVASCRIPT files</td>
-            <td>Recommendations: Only load JAVASCRIPT files that are necessary for the correct display of your website.</td>
-            <td>onpage<br>offpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>JAVASCRIPT minification</td>
-            <td>Recommendations: Only load minified JAVASCRIPT files.</td>
-            <td>onpage<br>offpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="6"><strong>CSS</strong></td>
-        </tr>
-        <tr>
-            <td>CSS too big</td>
-            <td>Recommendations: Optimize the code of every large CSS file.</td>
-            <td>onpage<br>offpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Compress CSS</td>
-            <td>Recommendations: Configure server-side CSS compression. Only load external resources if they are provided in compressed form.</td>
-            <td>onpage<br>offpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>CSS caching</td>
-            <td>Recommendations: Configure caching of your CSS files.</td>
-            <td>onpage<br>offpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Too many CSS files</td>
-            <td>Recommendations: Only load CSS files that are necessary for the correct display of your website.</td>
-            <td>onpage<br>offpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>CSS minification</td>
-            <td>Recommendations: Only load minified CSS files.</td>
-            <td>onpage<br>offpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="6"><strong>PERFORMANCE (in progress)</strong></td>
-        </tr>
-        <tr>
             <td colspan="6"><strong>LINKS - INTERNAL</strong></td>
         </tr>
         <tr>
@@ -546,6 +445,181 @@
             <td></td>
         </tr>
         <tr>
+            <td colspan="6"><strong>CSS</strong></td>
+        </tr>
+        <tr>
+            <td>CSS too big</td>
+            <td>Recommendations: Optimize the code of every large CSS file.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Compress CSS</td>
+            <td>Recommendations: Configure server-side CSS compression. Only load external resources if they are provided in compressed form.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>CSS caching</td>
+            <td>Recommendations: Configure caching of your CSS files.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Too many CSS files</td>
+            <td>Recommendations: Only load CSS files that are necessary for the correct display of your website.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>CSS minification</td>
+            <td>Recommendations: Only load minified CSS files.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>JAVASCRIPT</strong></td>
+        </tr>
+        <tr>
+            <td>JAVASCRIPT too big</td>
+            <td>Recommendations: Optimize the code of every large JAVASCRIPT file.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Compress JAVASCRIPT</td>
+            <td>Recommendations: Configure server-side JAVASCRIPT compression. Only load external resources if they are provided in compressed form.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>JAVASCRIPT caching</td>
+            <td>Recommendations: Configure caching of your JAVASCRIPT files.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Too many JAVASCRIPT files</td>
+            <td>Recommendations: Only load JAVASCRIPT files that are necessary for the correct display of your website.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>JAVASCRIPT minification</td>
+            <td>Recommendations: Only load minified JAVASCRIPT files.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>LOCALIZATION (in progress)</strong></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>PAGE SPEED / PERFORMANCE</strong></td>
+        </tr>
+        <tr>
+            <td>HTML too large</td>
+            <td>Recommendations: Optimize by improving its structure. Remove unnecessary code elements, empty lines, whitespace, scripts and styles etc. For example, remove inline styles and move them to separate CSS files.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Slow page loading speed</td>
+            <td>Recommendations: Optimize the HTML code for all pages. This is important because if the HTML code of the page is not optimized, the page will take longer to load. Also consider checking your web server, as it could be the cause of the problem. If optimizing your code doesn't help, consider switching to a faster web server.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Compress content and resources</td>
+            <td>Recommendations: Enable compression on your web pages by using the Content-Encoding entity to make the page load faster. Only load external resources if they are compressed.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Largest Contentful Paint (LCP) under real conditions / in a development environment</td>
+            <td>Recommendations: Speed ​​up server response time to ensure that the largest image or block of text is displayed in less than 2.5 seconds. To speed this up, use preloading on pages with static content and optimize top-of-page code. Also, optimize font and image file sizes and eliminate render-blocking JavaScript and CSS features.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>First Input Delay (FID) under real conditions</td>
+            <td>Recommendations: Optimize JavaScript files by minifying them and removing unnecessary or redundant data without affecting the code. Also remove unused or unnecessary JavaScript libraries. Split the JavaScript code into bundles and load only the parts that are needed at any given time.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Cumulative Layout Shift (CLS) under real conditions / in a development environment</td>
+            <td>Recommendations: Use size attributes for media files (images and videos) to reserve space in the final layout rendering. Avoid inserting new content over already rendered content and use CSS transform animations.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>First Contentful Paint (FCP) under real conditions / in a development environment</td>
+            <td>Recommendations: Speed ​​up server response time by preloading on pages with static content. Optimize font and image file sizes and top-of-page code. Eliminate render-blocking JavaScript and CSS.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Page speed index</td>
+            <td>Recommendations: Increase the loading speed of your page by compressing images on the page, optimizing Javascript and CSS, and using page caching. When loading web fonts, use the font the user already has so that the text is visible without delay.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Time to interaction (TTI)</td>
+            <td>Recommendations: Optimize JavaScript code! Optimize JavaScript files by minifying them and removing unnecessary or redundant data without affecting the code. Also remove unused or unnecessary JavaScript libraries. Split the JavaScript code into bundles and load only the parts that are needed at any given time.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Total Blocking Time (TBT)</td>
+            <td>Recommendations: Optimize the execution of long tasks. For example, split a large script into several smaller ones that are loaded gradually. Minify the code by removing unnecessary elements and splitting it into separate packages.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>SERVER (in progress)</strong></td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>REDIRECTS</strong></td>
         </tr>
         <tr>
@@ -587,6 +661,9 @@
             <td></td>
             <td></td>
             <td></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>HTTP STATUS CODE (in progress)</strong></td>
         </tr>
         <tr>
             <td colspan="6"><strong>USABILITY</strong></td>
