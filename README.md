@@ -406,12 +406,12 @@
             <td colspan="6"><strong>CONTENT - FRAME</strong></td>
         </tr>
         <tr>
-            <td>Frame is used</td>
-            <td>Recommendations: Avoid using < frame > tags on the pages of the website that you want to index.</td>
-            <td>onpage</td>
+            <td>Frameset/iFrame</td>
+            <td>Page uses Frameset/iFrame.<br>Recommendations: Avoid using < frame > tags on the pages of the website that you want to index.</td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td>0</td>
+            <td>1</td>
+            <td>&gt;1</td>
         </tr>
         <tr>
             <td colspan="6"><strong>CONTENT</strong></td>
@@ -680,7 +680,66 @@
             <td></td>
         </tr>
         <tr>
+            <td colspan="6"><strong>HTML</strong></td>
+        </tr>
+        <tr>
+            <td>HTML Errors</td>
+            <td>Number of HTML Errors</td>
+            <td></td>
+            <td>0</td>
+            <td>0 - 10</td>
+            <td>&gt;10</td>
+        </tr>
+        <tr>
+            <td>HTML Warnings</td>
+            <td>Number of HTML Warnings</td>
+            <td></td>
+            <td>0 (1x HTML5)</td>
+            <td>0 - 10</td>
+            <td>&gt;10</td>
+        </tr>
+        <tr>
+            <td>Doctype Declaration</td>
+            <td>Page uses HTML5 Declaration</td>
+            <td></td>
+            <td>HTML5</td>
+            <td>HTML Strict</td>
+            <td>HTML4</td>
+        </tr>
+        <tr>
+            <td>Character set encoding</td>
+            <td>Page uses UTF-8 charset</td>
+            <td></td>
+            <td>UTF-8</td>
+            <td>Iso-XXX</td>
+            <td>None</td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>CSS</strong></td>
+        </tr>
+        <tr>
+            <td>Inline Styles</td>
+            <td>Number of inline styles</td>
+            <td></td>
+            <td>0</td>
+            <td>0 - 5</td>
+            <td>&gt;5</td>
+        </tr>
+        <tr>
+            <td>Style Tags</td>
+            <td>Number of inline style tags</td>
+            <td></td>
+            <td>0-1</td>
+            <td>1 - 3</td>
+            <td>&gt;3</td>
+        </tr>
+        <tr>
+            <td>Link Tags (Stylesheet)</td>
+            <td>Number of stylesheet link tags</td>
+            <td></td>
+            <td>0-1</td>
+            <td>1 - 3</td>
+            <td>&gt;3</td>
         </tr>
         <tr>
             <td>CSS Errors</td>
@@ -764,6 +823,22 @@
         </tr>
         <tr>
             <td colspan="6"><strong>JAVASCRIPT</strong></td>
+        </tr>
+        <tr>
+            <td>Inline Scripts</td>
+            <td>Number of inline scripts</td>
+            <td></td>
+            <td>0</td>
+            <td>0 - 5</td>
+            <td>&gt;5</td>
+        </tr>
+        <tr>
+            <td>Script Tags</td>
+            <td>Number of inline script tags</td>
+            <td></td>
+            <td>0-1</td>
+            <td>1 - 3</td>
+            <td>&gt;3</td>
         </tr>
         <tr>
             <td>JAVASCRIPT too big</td>
@@ -1236,11 +1311,11 @@
         </tr>
         <tr>
             <td>Flash</td>
-            <td>Recommendations: Use HTML5 instead of Flash on your website.</td>
+            <td>Page uses Flash<br>Recommendations: Use HTML5 instead of Flash on your website.</td>
             <td>onpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>0</td>
+            <td>1</td>
+            <td>&gt;1</td>
         </tr>
         <tr>
             <td>Twitter-Card-Tag</td>
@@ -1252,6 +1327,14 @@
         </tr>
         <tr>
             <td colspan="6"><strong>MOBILE DEVICES</strong></td>
+        </tr>
+        <tr>
+            <td>MobileOK Checker</td>
+            <td>Assessment of mobile compatibility</td>
+            <td></td>
+            <td>&gt;50%</td>
+            <td>10% - 50%</td>
+            <td>&lt;10%</td>
         </tr>
         <tr>
             <td>Viewport-Meta-Tag</td>
