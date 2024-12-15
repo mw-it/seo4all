@@ -226,9 +226,9 @@
             <td>Use robots.txt</td>
             <td>Recommendations: Create a robots.txt file and add it to the root directory of your website.</td>
             <td>onpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>present</td>
+            <td>faulty</td>
+            <td>not present</td>
         </tr>
         <tr>
             <td>Blocked by robots.txt</td>
@@ -426,11 +426,11 @@
         </tr>
         <tr>
             <td>WWW redirect</td>
-            <td>Recommendations: If necessary, redirect all non-www URLs on your site to www.</td>
+            <td>Redirection from non-www to www or vice versa.<br>Recommendations: If necessary, redirect all non-www URLs on your site to www.</td>
             <td>onpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>present</td>
+            <td>faulty</td>
+            <td>not present</td>
         </tr>
         <tr>
             <td>Multiple rel="canonical"</td>
@@ -1007,7 +1007,47 @@
             <td></td>
         </tr>
         <tr>
-            <td colspan="6"><strong>SERVER (in progress)</strong></td>
+            <td colspan="6"><strong>SERVER</strong></td>
+        </tr>
+        <tr>
+            <td>Directory-Browsing</td>
+            <td>Folder view on the server is prevented</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Server Signature</td>
+            <td>Server signature is not displayed</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Server-Time</td>
+            <td>The server time is set correctly</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Server-Location</td>
+            <td>The server location is in the same country as the business headquarters.</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>IP neighborhood</td>
+            <td>number of domains of the same IP</td>
+            <td></td>
+            <td>&lt;3</td>
+            <td>3 - 10</td>
+            <td>&gt;10</td>
         </tr>
         <tr>
             <td colspan="6"><strong>REDIRECTS</strong></td>
@@ -1590,6 +1630,95 @@
             <td>-</td>
             <td>no</td>
         </tr>
+        <tr>
+            <td colspan="6"><strong>SERIOUSNESS - AUTHOR</strong></td>
+        </tr>
+        <tr>
+            <td>Author meta tag</td>
+            <td>Present and error-free</td>
+            <td></td>
+            <td>present</td>
+            <td>faulty</td>
+            <td>not present</td>
+        </tr>
+        <tr>
+            <td>Google+</td>
+            <td>Website is connected to Google+ Page</td>
+            <td></td>
+            <td>present</td>
+            <td>faulty</td>
+            <td>not present</td>
+        </tr>
+        <tr>
+            <td>humans.txt</td>
+            <td>Present and error-free</td>
+            <td></td>
+            <td>present</td>
+            <td>faulty</td>
+            <td>not present</td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>VISIBILITY</strong></td>
+        </tr>
+        <tr>
+            <td>Google Rankings</td>
+            <td>ranking of the specified keywords</td>
+            <td></td>
+            <td>100% in Top 10</td>
+            <td>50% - 100% Top 10</td>
+            <td>&lt;50% Top 10</td>
+        </tr>
+        <tr>
+            <td>Bing Rankings</td>
+            <td>ranking of the specified keywords</td>
+            <td></td>
+            <td>100% in Top 10</td>
+            <td>50% - 100% Top 10</td>
+            <td>&lt;50% Top 10</td>
+        </tr>
+        <tr>
+            <td>General visibility</td>
+            <td>General visibility in search engines</td>
+            <td></td>
+            <td>&gt;100K</td>
+            <td>1K - 100K</td>
+            <td>&lt;1K</td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>PAGE VIEWS/VISITS</strong></td>
+        </tr>
+        <tr>
+            <td>Alexa page views/visitors</td>
+            <td>Average Pageviews</td>
+            <td></td>
+            <td>&gt;10</td>
+            <td>3 - 10</td>
+            <td>&lt;3</td>
+        </tr>
+        <tr>
+            <td>Alexa length of stay</td>
+            <td>Average length of stay </td>
+            <td></td>
+            <td>&gt;10 Min.</td>
+            <td>10 Min. - 10 Min.</td>
+            <td>&lt;3 Min.</td>
+        </tr>
+        <tr>
+            <td>Alexa bounce rate</td>
+            <td>Average bounce rate</td>
+            <td></td>
+            <td>&lt;33%</td>
+            <td>33% - 66%</td>
+            <td>&gt;66%</td>
+        </tr>
+        <tr>
+            <td>Alexa visitors via a search</td>
+            <td>Number of visitors from a search</td>
+            <td></td>
+            <td>&gt;30%</td>
+            <td>10% - 30%</td>
+            <td>&lt;10%</td>
+        </tr>
     </tbody>
 </table>
 </details>
@@ -1685,9 +1814,15 @@
 </details>
 
 <details>
-    <summary>REVIEWS (in progress)</summary>
+    <summary>REVIEWS</summary>
     <ul>
+        <li>Ciao.de</li>
+        <li>Dooyoo.de</li>
+        <li>Erfahrungen.com</li>
         <li>Google</li>
+        <li>Google Places</li>
+        <li>KennstDuEinen.de</li>
+        <li>Yelp/Qype</li>
         <li>. . .</li>
         <li> do you know more review pages? let us know. help us to grow and extend seo4all.</li>
     </ul>
