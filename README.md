@@ -247,7 +247,47 @@
             <td colspan="6"><strong>LOCALIZATION (in progress)</strong></td>
         </tr>
         <tr>
-            <td colspan="6"><strong>JAVASCRIPT (in progress)</strong></td>
+            <td colspan="6"><strong>JAVASCRIPT</strong></td>
+        </tr>
+        <tr>
+            <td>JAVASCRIPT too big</td>
+            <td>Recommendations: Optimize the code of every large JAVASCRIPT file.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Compress JAVASCRIPT</td>
+            <td>Recommendations: Configure server-side JAVASCRIPT compression. Only load external resources if they are provided in compressed form.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>JAVASCRIPT caching</td>
+            <td>Recommendations: Configure caching of your JAVASCRIPT files.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Too many JAVASCRIPT files</td>
+            <td>Recommendations: Only load JAVASCRIPT files that are necessary for the correct display of your website.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>JAVASCRIPT minification</td>
+            <td>Recommendations: Only load minified JAVASCRIPT files.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td colspan="6"><strong>CSS</strong></td>
