@@ -317,7 +317,7 @@
         </tr>
         <tr>
             <td>H2 heading too long</td>
-            <td>Recommendations: For pages with <h2> header tags, make sure that these tags are filled with concise text that briefly describes the main content of the following block.</td>
+            <td>Recommendations: For pages with < h2 > header tags, make sure that these tags are filled with concise text that briefly describes the main content of the following block.</td>
             <td>onpage</td>
             <td>&gt;1</td>
             <td>-</td>
