@@ -1180,7 +1180,7 @@
 </details>
 
 <details>
-    <summary>FREE DIRECTORIES</summary>
+    <summary>DIRECTORIES</summary>
     <ul>
         <li>A</li>
         <li>auskunft.de</li>
@@ -1270,9 +1270,18 @@
 </details>
 
 <details>
-    <summary>REVIEWS</summary>
+    <summary>REVIEWS (in progress)</summary>
     <ul>
         <li>Google</li>
+        <li>. . .</li>
+        <li> do you know more review pages? let us know. help us to grow and extend seo4all.</li>
+    </ul>
+</details>
+
+<details>
+    <summary>SEO TOOLS (in progress)</summary>
+    <ul>
+        <li></li>
         <li>. . .</li>
         <li> do you know more review pages? let us know. help us to grow and extend seo4all.</li>
     </ul>
