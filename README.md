@@ -41,52 +41,60 @@
             <td>Domain age</td>
             <td>Age of the Domain in years</td>
             <td></td>
-            <td>&gt; 5</td>
+            <td>&gt;5</td>
             <td>2 - 5</td>
-            <td>&lt; 2</td>
+            <td>&lt;2</td>
         </tr>
         <tr>
             <td>Alexa Ranking (Global)</td>
             <td>Calculation of the generated backlink traffic</td>
             <td></td>
-            <td>&lt; 10000</td>
+            <td>&lt;10000</td>
             <td>10000 - 100000</td>
-            <td>&gt; 100000</td>
+            <td>&gt;100000</td>
         </tr>
         <tr>
             <td>Alexa Ranking (National)</td>
             <td>Calculation of the generated backlink traffic</td>
             <td></td>
-            <td>&lt; 1000</td>
+            <td>&lt;1000</td>
             <td>1000 - 10000</td>
-            <td>&gt; 10000</td>
+            <td>&gt;10000</td>
         </tr>
         <tr>
             <td>Bing Index</td>
             <td>Number of pages listed in the Bing Index</td>
             <td></td>
-            <td>&gt; 1000</td>
+            <td>&gt;1000</td>
             <td>100 - 1000</td>
-            <td>&lt; 100</td>
+            <td>&lt;100</td>
         </tr>
         <tr>
             <td>Google Index</td>
             <td>Number of pages listed in the Google Index</td>
             <td></td>
-            <td>&gt; 1000</td>
+            <td>&gt;1000</td>
             <td>100 - 1000</td>
-            <td>&lt; 100</td>
+            <td>&lt;100</td>
         </tr>
         <tr>
             <td>Google PageRank</td>
             <td>Importance of the domain (0-10)</td>
             <td></td>
-            <td>&gt; 8</td>
+            <td>&gt;8</td>
             <td>3 - 7</td>
-            <td>&lt; 2</td>
+            <td>&lt;2</td>
         </tr>
         <tr>
             <td colspan="6"><strong>SECURITY</strong></td>
+        </tr>
+        <tr>
+            <td>HTTPS/SSL-Encryption</td>
+            <td>SSL certificate exists and is valid</td>
+            <td></td>
+            <td>exists and is valid</td>
+            <td>exists</td>
+            <td>not existing</td>
         </tr>
         <tr>
             <td>SSL Certificate - Expiration</td>
@@ -281,7 +289,7 @@
             <td>Meta-Description</td>
             <td>Meta-Description should have &gt;40 and &lt;160 characters.</td>
             <td>onpage</td>
-            <td>&gt; 40 and &lt;160</td>
+            <td>&gt;40 and &lt;160</td>
             <td>-</td>
             <td>&lt;40 oder &gt;160</td>
         </tr>
@@ -460,24 +468,24 @@
             <td>Number of words</td>
             <td>Number of words in the HTML body.<br>Recommendations: The content should be more than 300 words. Make sure the text on the page fully reveals the topic or describes the products featured on the page in detail. Write a unique text for each page and add the most relevant keywords to it.</td>
             <td>onpage</td>
-            <td>&gt; 500</td>
+            <td>&gt;500</td>
             <td>300 - 500</td>
-            <td>&lt; 300</td>
+            <td>&lt;300</td>
         </tr>
         <tr>
             <td>LSO optimization level</td>
             <td>Optimization level of the page topic.</td>
             <td>onpage</td>
-            <td>&gt; 50%</td>
+            <td>&gt;50%</td>
             <td>20% - 50%</td>
-            <td>&lt; 20%</td>
+            <td>&lt;20%</td>
         </tr>
         <tr>
             <td>Relevance of metadata</td>
             <td>Relevance of metadata to content.</td>
             <td>onpage</td>
-            <td>&gt; 50%</td>
-            <td>50%</td>
+            <td>&gt;50%</td>
+            <td>&lt;50%</td>
             <td>0</td>
         </tr>
         <tr>
@@ -492,11 +500,11 @@
             <td></td>
         </tr>
         <tr>
-            <td>Image Alt-Attribute</td>
+            <td>Image alt attribute</td>
             <td>Images without alternative text. Recommendations: Write precise and relevant alt text for each image.</td>
             <td>onpage</td>
             <td>0</td>
-            <td>20%</td>
+            <td>&lt;20%</td>
             <td>&gt;20%</td>
         </tr>
         <tr>
@@ -1256,7 +1264,7 @@
             <td></td>
         </tr>
         <tr>
-            <td colspan="6"><strong>SOCIAL MEDIA (in progress)</strong></td>
+            <td colspan="6"><strong>SOCIAL MEDIA</strong></td>
         </tr>
         <tr>
             <td>Facebook</td>
@@ -1338,7 +1346,7 @@
         </tr>
         <tr>
             <td>Wikipedia Backlinks</td>
-            <td>Number of backlinks in the Wikipedia</td>
+            <td>Number of backlinks in Wikipedia</td>
             <td></td>
             <td>&gt;3</td>
             <td>1 - 2</td>
@@ -1353,8 +1361,8 @@
             <td>0</td>
         </tr>
         <tr>
-            <td>Yahoo Verzeichnis Links</td>
-            <td>Number of backlinks in the Yahoo Verzeichnis</td>
+            <td>Yahoo Directory Links</td>
+            <td>Number of backlinks in the Yahoo Directory</td>
             <td></td>
             <td>&gt;3</td>
             <td>1 - 2</td>
@@ -1396,7 +1404,7 @@
             <td>Deep-/Subpages Backlinks</td>
             <td>All backlinks that lead to deep/subpages</td>
             <td></td>
-            <td>&gt; 100K</td>
+            <td>&gt;100K</td>
             <td>1K - 100K</td>
             <td>&lt;1K</td>
         </tr>
@@ -1433,12 +1441,119 @@
             <td>Evenly</td>
         </tr>
         <tr>
-            <td>Variationen von Ankertexten</td>
-            <td>Verschiedene Verwendung von Ankertexten</td>
+            <td>Variations of anchor texts</td>
+            <td>Different uses of anchor texts</td>
             <td></td>
             <td>Uneven</td>
             <td>~</td>
             <td>Evenly</td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>SERIOUSNESS</strong></td>
+        </tr>
+        <tr>
+            <td>MyWot Trustworthiness</td>
+            <td>Rating of the trustworthiness of MyWot</td>
+            <td></td>
+            <td>good</td>
+            <td>medium</td>
+            <td>bad</td>
+        </tr>
+        <tr>
+            <td>MyWot youth protection</td>
+            <td>Rating of the youth protection of MyWot</td>
+            <td></td>
+            <td>good</td>
+            <td>medium</td>
+            <td>bad</td>
+        </tr>
+        <tr>
+            <td>Save Browsing</td>
+            <td>Website supports Save Browsing</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Website is in Spam list?</td>
+            <td>Website is in Spam list</td>
+            <td></td>
+            <td>no</td>
+            <td>-</td>
+            <td>yes</td>
+        </tr>
+        <tr>
+            <td>Contact form/page</td>
+            <td>contact option available</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Whois information</td>
+            <td>Whois record is equal to the imprint data</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Imprint</td>
+            <td>Page present and complete</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Privacy policy</td>
+            <td>Page present and complete</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Terms and conditions</td>
+            <td>Page present and complete</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Terms of use</td>
+            <td>Page present and complete</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>FAQ (Frequently asked questions)</td>
+            <td>Page present and complete</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Directions description</td>
+            <td>Description present and complete</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Data protection-compliant social buttons</td>
+            <td>Use of data protection-compliant social buttons</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
         </tr>
     </tbody>
 </table>
