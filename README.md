@@ -1259,6 +1259,70 @@
             <td colspan="6"><strong>SOCIAL MEDIA (in progress)</strong></td>
         </tr>
         <tr>
+            <td>Facebook</td>
+            <td>Number of Likes, Shares and Comments</td>
+            <td></td>
+            <td>&gt;100</td>
+            <td>10 - 100</td>
+            <td>&lt;10</td>
+        </tr>
+        <tr>
+            <td>Google Plus One </td>
+            <td>Number of Pluses</td>
+            <td></td>
+            <td>&gt;100</td>
+            <td>10 - 100</td>
+            <td>&lt;10</td>
+        </tr>
+        <tr>
+            <td>Twitter Tweets </td>
+            <td>Number of Tweets</td>
+            <td></td>
+            <td>&gt;100</td>
+            <td>10 - 100</td>
+            <td>&lt;10</td>
+        </tr>
+        <tr>
+            <td>LinkedIn Shares </td>
+            <td>Number of Shares</td>
+            <td></td>
+            <td>&gt;100</td>
+            <td>10 - 100</td>
+            <td>&lt;10</td>
+        </tr>
+        <tr>
+            <td>Xing Shares </td>
+            <td>Number of Shares</td>
+            <td></td>
+            <td>&gt;100</td>
+            <td>10 - 100</td>
+            <td>&lt;10</td>
+        </tr>
+        <tr>
+            <td>Pinterest Pins </td>
+            <td>Number of Pins</td>
+            <td></td>
+            <td>&gt;100</td>
+            <td>10 - 100</td>
+            <td>&lt;10</td>
+        </tr>
+        <tr>
+            <td>Delicious Bookmarks </td>
+            <td>Number of Bookmarks</td>
+            <td></td>
+            <td>&gt;100</td>
+            <td>10 - 100</td>
+            <td>&lt;10</td>
+        </tr>
+        <tr>
+            <td>StumbleUpon Bookmarks</td>
+            <td>Numder of Bookmarks</td>
+            <td></td>
+            <td>&gt;100</td>
+            <td>10 - 100</td>
+            <td>&lt;10</td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>SEM POTENTIAL</strong></td>
         </tr>
         <tr>
