@@ -163,20 +163,28 @@
             <td colspan="6"><strong>CONTENT</strong></td>
         </tr>
         <tr>
+            <td>Meta-Title (Page title)</td>
+            <td>Recommendations: Write a unique and concise title for each page of the website and add the most relevant keywords.</td>
+            <td>onpage</td>
+            <td>&gt;10 and &lt;70</td>
+            <td>-</td>
+            <td>&lt;10 or &gt;70</td>
+        </tr>
+        <tr>
+            <td>URLs with duplicate page titles</td>
+            <td>The title tag has 10-70 characters.</td>
+            <td>onpage</td>
+            <td>&gt;10 and &lt;70</td>
+            <td>-</td>
+            <td>&lt;10 or &gt;70</td>
+        </tr>
+        <tr>
             <td>Number of words</td>
             <td>Number of words in the HTML body.</td>
             <td>onpage</td>
             <td>&gt; 500</td>
             <td>100 - 500</td>
             <td>&lt; 100</td>
-        </tr>
-        <tr>
-            <td>Meta-Title (Page title)</td>
-            <td>The title tag has 10-70 characters.</td>
-            <td>onpage</td>
-            <td>&gt;10 and &lt;70</td>
-            <td>-</td>
-            <td>&lt;10 or &gt;70</td>
         </tr>
         <tr>
             <td>Meta-Description</td>
@@ -242,10 +250,84 @@
             <td colspan="6"><strong>JAVASCRIPT (in progress)</strong></td>
         </tr>
         <tr>
-            <td colspan="6"><strong>CSS (in progress)</strong></td>
+            <td colspan="6"><strong>CSS</strong></td>
         </tr>
         <tr>
-            <td colspan="6"><strong>MOBILE DEVICES (in progress)</strong></td>
+            <td>CSS too big</td>
+            <td>Recommendations: Optimize the code of every large CSS file.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Compress CSS</td>
+            <td>Recommendations: Configure server-side CSS compression. Only load external resources if they are provided in compressed form.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>CSS caching</td>
+            <td>Recommendations: Configure caching of your CSS files.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Too many CSS files</td>
+            <td>Recommendations: Only load CSS files that are necessary for the correct display of your website.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>CSS minification</td>
+            <td>Recommendations: Only load minified CSS files.</td>
+            <td>onpage<br>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="6"><strong>MOBILE DEVICES</strong></td>
+        </tr>
+        <tr>
+            <td>Viewport-Meta-Tag</td>
+            <td>Recommendations: Set the viewport meta tag<br>
+            < meta name="viewport" content="width=device-width, initial-scale=1" ><br>
+            for each individual web page and test your website on mobile devices to make sure everything works correctly.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Fixed width value in the viewport meta tag</td>
+            <td>Recommendations: Scale pages to fit screens of different sizes. To do this, the viewport meta tag must contain the device-width value.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Use compatible plugins</td>
+            <td>Recommendations: Use modern, widely supported technologies (e.g. HTML5) on the site.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Minimum text-to-HTML ratio</td>
+            <td>Recommendations: To reduce page size and speed up page loading time, shorten HTML code. For example, remove all unnecessary comments, spaces and blank lines.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td colspan="6"><strong>PERFORMANCE (in progress)</strong></td>
