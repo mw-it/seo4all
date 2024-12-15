@@ -476,7 +476,47 @@
             <td colspan="6"><strong>PERFORMANCE (in progress)</strong></td>
         </tr>
         <tr>
-            <td colspan="6"><strong>LINKS - INTERNAL (in progress)</strong></td>
+            <td colspan="6"><strong>LINKS - INTERNAL</strong></td>
+        </tr>
+        <tr>
+            <td>Anchor/Link text</td>
+            <td>Recommendations: Make sure that all links contain an anchor/link text. Use concise wording in anchor/link texts.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Timeout</td>
+            <td>Recommendations: Make sure that all links to external sites work correctly.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Incoming internal links</td>
+            <td>Recommendations: Make sure that the most important pages on your website have at least a few internal links pointing to them. All internal links must not be tagged with the rel="nofollow" attribute!</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Too many internal links</td>
+            <td>Recommendations: Make sure you need all of them and that they fit naturally into the UX/UI of your product. Remove all unnecessary links. Depending on the type of website (aggregator, online store, blog, forum), you can have pages with more than 300 links if they are of value to visitors.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Nofollow</td>
+            <td>Recommendations: Do not use the rel="nofollow" attribute for your website's internal linking! Use the "Disallow" rule in the robots.txt file to prevent search engine robots from following your website's internal links.</td>
+            <td>onpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td colspan="6"><strong>LINKS - EXTERNAL</strong></td>
@@ -490,16 +530,16 @@
             <td></td>
         </tr>
         <tr>
-            <td>Nofollow</td>
-            <td>Recommendations: Make sure that all external links tagged with the rel="nofollow" attribute really need to be tagged with this attribute. Google recommends using the rel="sponsored" attribute for sponsored links and the rel="ugc" attribute for user-generated content in links (e.g. comments). The rel="nofollow" attribute makes it clear to search engines that you do not want your page to link to the website you are linking to.</td>
+            <td>Timeout</td>
+            <td>Recommendations: Make sure that all links to external sites work correctly.</td>
             <td>onpage</td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>Timeout</td>
-            <td>Recommendations: Make sure that all links to external sites work correctly.</td>
+            <td>Nofollow</td>
+            <td>Recommendations: Make sure that all external links tagged with the rel="nofollow" attribute really need to be tagged with this attribute. Google recommends using the rel="sponsored" attribute for sponsored links and the rel="ugc" attribute for user-generated content in links (e.g. comments). The rel="nofollow" attribute makes it clear to search engines that you do not want your page to link to the website you are linking to.</td>
             <td>onpage</td>
             <td></td>
             <td></td>
