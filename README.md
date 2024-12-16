@@ -19,7 +19,7 @@
 + ✔️ free tools
 + ✔️ free website audit tips
 + ✔️ seo4all BOOK (planning)
-+ ✔️ **All tips, tricks and recommendations are tried and tested in real environments and on successful websites that have generated at least 15+ million euros in annual sales 💰!!!**
++ ✔️ **ALL tips, tricks and recommendations are tried and tested in real production environments, live websites, online shops and in successful companies that have generated at least 15+ million euros in annual sales 💰!!!**
 
 ## SEO (SEARCH ENGINE OPTIMIZATION): ONPAGE & OFFPAGE
 <details>
@@ -1978,30 +1978,42 @@
 </details>
 
 <details>
-    <summary>DIRECTORIES / SOCIAL MEDIA</summary>
+    <summary>DIRECTORIES / BUSINESS LISTINGS / CATALOGS / SOCIAL MEDIA</summary>
     <ul>
         <li>A</li>
+        <li>A-Zbusinessfinder</li>
+        <li>Acxiom</li>
+        <li>Apple Maps</li>
         <li>auskunft.de</li>
         <li>B</li>
         <li>belocal.de</li>
         <li>bing.de</li>
         <li>bingplaces.com</li>
+        <li>BizAdee</li>
         <li>blaue-branchen.de (yellowmap)</li>
         <li>branchenbuchdeutschland.de</li>
         <li>branchenmorgen.de (yellowmap)</li>
+        <li>Brownbook</li>
         <li>business-branchenbuch.de</li>
         <li>C</li>
+        <li>C</li>
+        <li>Callupcontact</li>
         <li>city-map.com/de</li>
+        <li>Cybo</li>
         <li>D</li>
         <li>dasoertliche.de</li>
         <li>dastelefonbuch.de</li>
+        <li>directory.ac</li>
         <li>dmoz</li>
         <li>E</li>
+        <li>ExpressBusinessDirectory</li>
         <li>F</li>
         <li>facebook.com</li>
         <li>factual.com (foursquare)</li>
+        <li>Find-Us-Here</li>
         <li>foursquare.com/city-guide</li>
         <li>freieauskunft.de (yellowmap)</li>
+        <li>Fypie</li>
         <li>G</li>
         <li>gelbeseiten.de</li>
         <li>gmx.net</li>
@@ -2012,14 +2024,17 @@
         <li>Google Places</li>
         <li>goyellow.de</li>
         <li>H</li>
+        <li>HotFrog</li>
         <li>I</li>
         <li>infobel.com</li>
         <li>Instagram</li>
         <li>J</li>
         <li>K</li>
         <li>klicktel.de (11880)</li>
+        <li>Kompass</li>
         <li>koomio.com</li>
         <li>L</li>
+        <li>Lacartes</li>
         <li>LinkedIn</li>
         <li>lokaleauskunft.de (yellowmap)</li>
         <li>M</li>
@@ -2035,9 +2050,14 @@
         <li>Qype</li>
         <li>R</li>
         <li>S</li>
+        <li>Showmelocal</li>
+        <li>SmartGuy</li>
+        <li>Spoke</li>
         <li>stadtbranchenbuch.com</li>
+        <li>StreetDir</li>
         <li>T</li>
         <li>tomtom.com</li>
+        <li>Tupalo</li>
         <li>twitter.com</li>
         <li>U</li>
         <li>uberall.com</li>
@@ -2045,9 +2065,13 @@
         <li>unternehmensverzeichnis.org</li>
         <li>V</li>
         <li>W</li>
+        <li>WAND</li>
+        <li>World Business Directory (WBD)</li>
         <li>web.de</li>
         <li>web2.cylex.de</li>
         <li>werkenntdenbesten.de</li>
+        <li>Where2Go</li>
+        <li>WhoDoYou</li>
         <li>wikipedia</li>
         <li>wogibtswas.de</li>
         <li>X</li>
@@ -2056,6 +2080,7 @@
         <li>yahoo</li>
         <li>yalwa.de</li>
         <li>yellowmap.de</li>
+        <li>Yellow Pages</li>
         <li>yelp.de</li>
         <li>yext.com</li>
         <li>youtube.com</li>
@@ -2066,12 +2091,13 @@
         <li>presseanzeiger.de</li>
         <li>OTHERS</li>
         <li>11880.com</li>
+        <li>2FindLocal</li>
         <li>aligo.at</li>
         <li>sicherheits-berater.de</li>
         <li>sicheriminternet.de</li>
         <li>simobit.de</li>
         <li>. . .</li>
-        <li> do you know more free directories? let us know. help us to grow and extend seo4all.</li>
+        <li> do you know more directories, business listings, catalogs or social media? let us know. help us to grow and extend seo4all.</li>
     </ul>
 </details>
 
