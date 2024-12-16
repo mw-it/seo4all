@@ -184,7 +184,7 @@
             <td>Present and error-free</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -246,7 +246,7 @@
             <td>Recommendations: Write a unique and concise title for each page of the website and add the most relevant keywords to it.</td>
             <td>onpage</td>
             <td>&gt;10 and &lt;70</td>
-            <td>-</td>
+            <td></td>
             <td>&lt;10 or &gt;70</td>
         </tr>
         <tr>
@@ -291,15 +291,34 @@
             <td></td>
         </tr>
         <tr>
+            <td colspan="6"><strong>META KEYWORDS</strong></td>
+        </tr>
+        <tr>
+            <td>Meta Keywords</td>
+            <td>Meta Keywords are comma separated values.<br>Recommendations: Every page should have a unique set of 13 keywords with the most relevant keywords.</br>
+            <td>onpage</td>
+            <td>13</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Keywords in content</td>
+            <td>Recommendations: All Meta Keywords should be present in the page content.</br>
+            <td>onpage</td>
+            <td>13</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td colspan="6"><strong>META DESCRIPTION</strong></td>
         </tr>
         <tr>
-            <td>Meta-Description</td>
-            <td>Meta-Description should have &gt;40 and &lt;160 characters.</td>
+            <td>Meta Description</td>
+            <td>Meta Description should have &gt;40 and &lt;160 characters.</td>
             <td>onpage</td>
-            <td>&gt;40 and &lt;160</td>
-            <td>-</td>
-            <td>&lt;40 or &gt;160</td>
+            <td>&gt;150 and &lt;160</td>
+            <td></td>
+            <td>&lt;150 or &gt;160</td>
         </tr>
         <tr>
             <td>Use the HTML meta description</td>
@@ -351,7 +370,7 @@
             <td>H1 once per page or once per section tag<br>Recommendations: Make sure all your web pages have a < h1 > header tag filled with concise, relevant and unique text. Depending on the type of website and page structure, there may be more than one < h1 > tag, but it is highly recommended to use only one < h1 > tag per page. IMPORTANT: Your pages must be logically structured.</td>
             <td>onpage</td>
             <td>1 per page (or section tag)</td>
-            <td>-</td>
+            <td></td>
             <td>0</td>
         </tr>
         <tr>
@@ -391,7 +410,7 @@
             <td>H2 tag exists at least one time and is filled with concise text. Recommendations: For pages with < h2 > header tags, make sure that these tags are filled with concise text that briefly describes the main content of the following block. Depending on the website type and page structure, there may be more than one < h2 > tag, but IMPORTANT: Your pages must be logically structured.</td>
             <td>onpage</td>
             <td>&gt;1</td>
-            <td>-</td>
+            <td></td>
             <td>0</td>
         </tr>
         <tr>
@@ -399,7 +418,7 @@
             <td>Recommendations: For pages with < h2 > header tags, make sure that these tags are filled with concise text that briefly describes the main content of the following block.</td>
             <td>onpage</td>
             <td>&gt;1</td>
-            <td>-</td>
+            <td></td>
             <td>0</td>
         </tr>
         <tr>
@@ -469,7 +488,7 @@
             <td>The title tag has 10-70 characters.</td>
             <td>onpage</td>
             <td>&gt;10 and &lt;70</td>
-            <td>-</td>
+            <td></td>
             <td>&lt;10 or &gt;70</td>
         </tr>
         <tr>
@@ -1161,7 +1180,7 @@
             <td>Folder view on the server is prevented</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1169,7 +1188,7 @@
             <td>Server signature is not displayed</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1177,7 +1196,7 @@
             <td>The server time is set correctly</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1185,7 +1204,7 @@
             <td>The server location is in the same country as the business headquarters.</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1386,7 +1405,7 @@
             <td>do this "/" and not "/cms/index.php"</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1394,7 +1413,7 @@
             <td>Website does not use underscore URLs for internal URLs</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1402,7 +1421,7 @@
             <td>Website does not use fully parameterized URLs for internal URLs</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1782,7 +1801,7 @@
             <td>Website supports Save Browsing</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1790,7 +1809,7 @@
             <td>Website is in Spam list</td>
             <td></td>
             <td>no</td>
-            <td>-</td>
+            <td></td>
             <td>yes</td>
         </tr>
         <tr>
@@ -1798,7 +1817,7 @@
             <td>contact option available</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1806,7 +1825,7 @@
             <td>Whois record is equal to the imprint data</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1814,7 +1833,7 @@
             <td>Page present and complete</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1822,7 +1841,7 @@
             <td>Page present and complete</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1830,7 +1849,7 @@
             <td>Page present and complete</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1838,7 +1857,7 @@
             <td>Page present and complete</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1846,7 +1865,7 @@
             <td>Page present and complete</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1854,7 +1873,7 @@
             <td>Description present and complete</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1862,7 +1881,7 @@
             <td>Use of data protection-compliant social buttons</td>
             <td></td>
             <td>yes</td>
-            <td>-</td>
+            <td></td>
             <td>no</td>
         </tr>
         <tr>
@@ -1988,7 +2007,9 @@
         <li>gmx.net</li>
         <li>golocal.de</li>
         <li>google.com/intl/de/business</li>
-        <li>Google Placess</li>
+        <li>Google Business Profile</li>
+        <li>Google My Business</li>
+        <li>Google Places</li>
         <li>goyellow.de</li>
         <li>H</li>
         <li>I</li>
@@ -2037,6 +2058,7 @@
         <li>yellowmap.de</li>
         <li>yelp.de</li>
         <li>yext.com</li>
+        <li>youtube.com</li>
         <li>Z</li>
         <li>PRESS RELEASE</li>
         <li>firmenpresse.de</li>
