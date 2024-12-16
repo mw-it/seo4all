@@ -303,11 +303,11 @@
         </tr>
         <tr>
             <td>Keywords in content</td>
-            <td>Recommendations: All Meta Keywords should be present in the page content.</br>
+            <td>Relation of keywords to content.<br>Recommendations: All Meta Keywords should be present in the page content. Relation: 3-5% keywords should be present in the website content.</br>
             <td>onpage</td>
-            <td>13</td>
-            <td></td>
-            <td></td>
+            <td>&gt;5%</td>
+            <td>&gt;3% and &lt;5%</td>
+            <td>&lt;3%</td>
         </tr>
         <tr>
             <td colspan="6"><strong>META DESCRIPTION</strong></td>
