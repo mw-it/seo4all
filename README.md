@@ -1772,10 +1772,34 @@
         <tr>
             <td>Variations of anchor texts</td>
             <td>Different uses of anchor texts</td>
-            <td></td>
+            <td>onpage</td>
             <td>Uneven</td>
             <td>~</td>
             <td>Evenly</td>
+        </tr>
+        <tr>
+            <td>Youtube videos</td>
+            <td>Use Youtube video with location information.</td>
+            <td>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Google Business View</td>
+            <td>Use Google Business View with location information.</td>
+            <td>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Reviews and Descriptions</td>
+            <td>Place keywords in reviews and descriptions.</td>
+            <td>offpage</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td colspan="6"><strong>SERIOUSNESS</strong></td>
