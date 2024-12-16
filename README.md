@@ -908,6 +908,14 @@
             <td colspan="6"><strong>LOCALIZATION</strong></td>
         </tr>
         <tr>
+            <td>HTML language definition</td>
+            <td>Present and error-free</td>
+            <td></td>
+            <td>country-specific</td>
+            <td>faulty</td>
+            <td>not set</td>
+        </tr>
+        <tr>
             <td>Invalid language code</td>
             <td>Recommendations: Review all pages and specify the correct page language codes. Follow ISO 639-1 format for attributes specifying the language and ISO 3166-1 Alpha 2 format for attributes specifying the region.</td>
             <td>onpage</td>
@@ -991,12 +999,60 @@
             <td colspan="6"><strong>PAGE SPEED / PERFORMANCE</strong></td>
         </tr>
         <tr>
+            <td>Server response time</td>
+            <td>time until the server responds</td>
+            <td></td>
+            <td>&lt;100 ms</td>
+            <td>100 - 300 ms</td>
+            <td>&gt;300 ms</td>
+        </tr>
+        <tr>
+            <td>Loading time</td>
+            <td>total time of the first page load</td>
+            <td></td>
+            <td>&lt;1 Sek.</td>
+            <td>1 - 3 Sek.</td>
+            <td>&gt;3 Sek.</td>
+        </tr>
+        <tr>
             <td>Timeout</td>
             <td>Recommendations: Make sure that the pages that aren't accessible are loading correctly. If your website's pages take too long to load, it can negatively impact the user experience and also slow down the indexing of the page.</td>
             <td>onpage</td>
             <td></td>
             <td></td>
             <td></td>
+        </tr>
+        <tr>
+            <td>Google PageSpeed (Desktop)</td>
+            <td>Estimating Desktop Speed</td>
+            <td></td>
+            <td>&gt;90%</td>
+            <td>75% - 90%</td>
+            <td>&lt;75%</td>
+        </tr>
+        <tr>
+            <td>Google PageSpeed (Mobile)</td>
+            <td>Estimating Mobile Speed</td>
+            <td></td>
+            <td>&gt;90%</td>
+            <td>75% - 90%</td>
+            <td>&lt;75%</td>
+        </tr>
+        <tr>
+            <td>Google PageSpeed (Mobile user experience)</td>
+            <td>Assessment of mobile usability</td>
+            <td></td>
+            <td>&gt;90%</td>
+            <td>75% - 90%</td>
+            <td>&lt;75%</td>
+        </tr>
+        <tr>
+            <td>Yahoo YSlow</td>
+            <td>Estimation of speed</td>
+            <td></td>
+            <td>&gt;90%</td>
+            <td>75% - 90%</td>
+            <td>&lt;75%</td>
         </tr>
         <tr>
             <td>HTML too large</td>
@@ -1302,12 +1358,84 @@
             <td colspan="6"><strong>USABILITY</strong></td>
         </tr>
         <tr>
-            <td>Favicon</td>
-            <td>Recommendations: Add a favicon to your website.</td>
+            <td>RSS-Feed</td>
+            <td>Integration as a meta tag and linked on the page.</td>
+            <td></td>
+            <td>present</td>
+            <td>faulty</td>
+            <td>not present</td>
+        </tr>
+        <tr>
+            <td>Open Graph</td>
+            <td>Open Graph elements present</td>
+            <td></td>
+            <td>present</td>
+            <td>faulty</td>
+            <td>not present</td>
+        </tr>
+        <tr>
+            <td>Rich-/Microdata</td>
+            <td>Rich-/Microdata elements present</td>
+            <td></td>
+            <td>present</td>
+            <td>faulty</td>
+            <td>not present</td>
+        </tr>
+        <tr>
+            <td>Root/Home page path</td>
+            <td>do this "/" and not "/cms/index.php"</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Underscore URLs</td>
+            <td>Website does not use underscore URLs for internal URLs</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Fully Parameterized URLs</td>
+            <td>Website does not use fully parameterized URLs for internal URLs</td>
+            <td></td>
+            <td>yes</td>
+            <td>-</td>
+            <td>no</td>
+        </tr>
+        <tr>
+            <td>Contemporary layout</td>
+            <td>Layout is well-thought-out and has clear navigation etc.</td>
             <td>onpage</td>
             <td></td>
             <td></td>
             <td></td>
+        </tr>
+        <tr>
+            <td>Favicon</td>
+            <td>Recommendations: Add a favicon to your website.</td>
+            <td>onpage</td>
+            <td>present</td>
+            <td>faulty</td>
+            <td>not present</td>
+        </tr>
+        <tr>
+            <td>Apple Touch Icon</td>
+            <td>Present and error-free</td>
+            <td>onpage</td>
+            <td>present</td>
+            <td>faulty</td>
+            <td>not present</td>
+        </tr>
+        <tr>
+            <td>Printability</td>
+            <td>Present and error-free</td>
+            <td>onpage</td>
+            <td>present</td>
+            <td>faulty</td>
+            <td>not present</td>
         </tr>
         <tr>
             <td>Flash</td>
@@ -1318,15 +1446,23 @@
             <td>&gt;1</td>
         </tr>
         <tr>
-            <td>Twitter-Card-Tag</td>
+            <td>Twitter Card Tag</td>
             <td>Recommendations: Use the Twitter Card tag to make the links to your pages that you share in your Twitter feed look attractive. IMPORTANT: The URLs inside the Twitter Card tags must be absolute and use the http:// or https:// protocols.</td>
             <td>onpage</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>present</td>
+            <td>faulty</td>
+            <td>not present</td>
         </tr>
         <tr>
-            <td colspan="6"><strong>MOBILE DEVICES</strong></td>
+            <td colspan="6"><strong>MOBILE DEVICES / RESPONSIVE DESIGN</strong></td>
+        </tr>
+        <tr>
+            <td>Responsive Design</td>
+            <td>Website developed for Desktop, Tablet and Mobile Devices (Smartphones)</td>
+            <td>onpage</td>
+            <td>yes</td>
+            <td>partial</td>
+            <td>no</td>
         </tr>
         <tr>
             <td>MobileOK Checker</td>
@@ -1449,7 +1585,7 @@
             <td>&lt;10</td>
         </tr>
         <tr>
-            <td>Google Plus One </td>
+            <td>Google Plus One</td>
             <td>Number of Pluses</td>
             <td></td>
             <td>&gt;100</td>
@@ -1457,7 +1593,7 @@
             <td>&lt;10</td>
         </tr>
         <tr>
-            <td>Twitter Tweets </td>
+            <td>Twitter Tweets</td>
             <td>Number of Tweets</td>
             <td></td>
             <td>&gt;100</td>
@@ -1465,7 +1601,7 @@
             <td>&lt;10</td>
         </tr>
         <tr>
-            <td>LinkedIn Shares </td>
+            <td>LinkedIn Shares</td>
             <td>Number of Shares</td>
             <td></td>
             <td>&gt;100</td>
@@ -1473,7 +1609,7 @@
             <td>&lt;10</td>
         </tr>
         <tr>
-            <td>Xing Shares </td>
+            <td>Xing Shares</td>
             <td>Number of Shares</td>
             <td></td>
             <td>&gt;100</td>
@@ -1481,7 +1617,7 @@
             <td>&lt;10</td>
         </tr>
         <tr>
-            <td>Pinterest Pins </td>
+            <td>Pinterest Pins</td>
             <td>Number of Pins</td>
             <td></td>
             <td>&gt;100</td>
@@ -1489,7 +1625,7 @@
             <td>&lt;10</td>
         </tr>
         <tr>
-            <td>Delicious Bookmarks </td>
+            <td>Delicious Bookmarks</td>
             <td>Number of Bookmarks</td>
             <td></td>
             <td>&gt;100</td>
@@ -1796,7 +1932,7 @@
         </tr>
         <tr>
             <td>Alexa length of stay</td>
-            <td>Average length of stay </td>
+            <td>Average length of stay</td>
             <td></td>
             <td>&gt;10 Min.</td>
             <td>10 Min. - 10 Min.</td>
@@ -1823,7 +1959,7 @@
 </details>
 
 <details>
-    <summary>DIRECTORIES</summary>
+    <summary>DIRECTORIES / SOCIAL MEDIA</summary>
     <ul>
         <li>A</li>
         <li>auskunft.de</li>
@@ -1852,15 +1988,18 @@
         <li>gmx.net</li>
         <li>golocal.de</li>
         <li>google.com/intl/de/business</li>
+        <li>Google Placess</li>
         <li>goyellow.de</li>
         <li>H</li>
         <li>I</li>
         <li>infobel.com</li>
+        <li>Instagram</li>
         <li>J</li>
         <li>K</li>
         <li>klicktel.de (11880)</li>
         <li>koomio.com</li>
         <li>L</li>
+        <li>LinkedIn</li>
         <li>lokaleauskunft.de (yellowmap)</li>
         <li>M</li>
         <li>marktplatz-mittelstand.de</li>
@@ -1872,6 +2011,7 @@
         <li>P</li>
         <li>plus.google.com</li>
         <li>Q</li>
+        <li>Qype</li>
         <li>R</li>
         <li>S</li>
         <li>stadtbranchenbuch.com</li>
@@ -1890,6 +2030,7 @@
         <li>wikipedia</li>
         <li>wogibtswas.de</li>
         <li>X</li>
+        <li>Xing</li>
         <li>Y</li>
         <li>yahoo</li>
         <li>yalwa.de</li>
