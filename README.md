@@ -6,13 +6,15 @@
 <p>explanation: be found more easily in search engines.</p>
 <p>our service: we can help you!</p>
 
-<p>seo4all provides general infos, documents, tips and tricks for seo (search engine optimization).</p>
+<p>seo4all provides a comprehensive checklist, general infos, documents, tips and tricks for professional seo (search engine optimization).</p>
+<p>SEARCH ENGINE OPTIMIZATION FOR ALL!!!</p>
 
 <p><strong>what do you get:</strong></p>
 
 + ✔️ free checklist
 + ✔️ free documents (how to's / templates)
 + ✔️ free directories
++ ✔️ free lexicon
 + ✔️ free link building tips
 + ✔️ free recommendations for action
 + ✔️ free tips and tricks
@@ -2016,6 +2018,7 @@
         <li>BizAdee</li>
         <li>blaue-branchen.de (yellowmap)</li>
         <li>branchenbuchdeutschland.de</li>
+        <li>branchenbuchsuche.de</li>
         <li>branchenmorgen.de (yellowmap)</li>
         <li>Brownbook</li>
         <li>business-branchenbuch.de</li>
@@ -2027,6 +2030,8 @@
         <li>D</li>
         <li>dasoertliche.de</li>
         <li>dastelefonbuch.de</li>
+        <li>Delicious Bookmarks</li>
+        <li>Digg Bookmarks</li>
         <li>directory.ac</li>
         <li>dmoz</li>
         <li>E</li>
@@ -2069,7 +2074,9 @@
         <li>N</li>
         <li>O</li>
         <li>P</li>
+        <li>Pinterest</li>
         <li>plus.google.com</li>
+        <li>pointoo.de</li>
         <li>Q</li>
         <li>Qype</li>
         <li>R</li>
@@ -2079,8 +2086,10 @@
         <li>Spoke</li>
         <li>stadtbranchenbuch.com</li>
         <li>StreetDir</li>
+        <li>StumbleUpon Bookmarks</li>
         <li>T</li>
         <li>tomtom.com</li>
+        <li>Tumblr</li>
         <li>Tupalo</li>
         <li>twitter.com</li>
         <li>U</li>
@@ -2232,6 +2241,13 @@
         <li>Yandex Keyword statistics</li>
         <li>. . .</li>
         <li> do you know more review pages? let us know. help us to grow and extend seo4all.</li>
+    </ul>
+</details>
+
+<details>
+    <summary>LEXICON (in progress)</summary>
+    <ul>
+        <li>. . .</li>
     </ul>
 </details>
 
