@@ -441,7 +441,7 @@
             <td>URL too long</td>
             <td>Recommendations: The length of your URLs should be a maximum of 75 characters.</td>
             <td>onpage</td>
-            <td></td>
+            <td>&lt;75</td>
             <td></td>
             <td></td>
         </tr>
@@ -2005,13 +2005,14 @@
 
 <details>
     <summary>DIRECTORIES / BUSINESS LISTINGS / CATALOGS / SOCIAL MEDIA</summary>
+    <p>Here is a suggested list of trusted directories and catalogs where your business may be listed. This can increase your visibility in searches and boost your business performance. Make sure your business is found on the most reliable resources.</p>
     <ul>
-        <li>A</li>
+        <h3>A</h3>
         <li>A-Zbusinessfinder</li>
         <li>Acxiom</li>
         <li>Apple Maps</li>
         <li>auskunft.de</li>
-        <li>B</li>
+        <h3>B</h3>
         <li>belocal.de</li>
         <li>bing.de</li>
         <li>bingplaces.com</li>
@@ -2022,29 +2023,29 @@
         <li>branchenmorgen.de (yellowmap)</li>
         <li>Brownbook</li>
         <li>business-branchenbuch.de</li>
-        <li>C</li>
-        <li>C</li>
+        <h3>C</h3>
         <li>Callupcontact</li>
         <li>city-map.com/de</li>
         <li>Cybo</li>
-        <li>D</li>
+        <h3>D</h3>
         <li>dasoertliche.de</li>
         <li>dastelefonbuch.de</li>
         <li>Delicious Bookmarks</li>
         <li>Digg Bookmarks</li>
         <li>directory.ac</li>
         <li>dmoz</li>
-        <li>E</li>
+        <h3>E</h3>
         <li>ExpressBusinessDirectory</li>
-        <li>F</li>
+        <h3>F</h3>
         <li>facebook.com</li>
         <li>factual.com (foursquare)</li>
         <li>Find-Us-Here</li>
         <li>foursquare.com/city-guide</li>
         <li>freieauskunft.de (yellowmap)</li>
         <li>Fypie</li>
-        <li>G</li>
+        <h3>G</h3>
         <li>gelbeseiten.de</li>
+        <li>gimpsy.com</li>
         <li>gmx.net</li>
         <li>golocal.de</li>
         <li>google.com/intl/de/business</li>
@@ -2052,52 +2053,54 @@
         <li>Google My Business</li>
         <li>Google Places</li>
         <li>goyellow.de</li>
-        <li>H</li>
+        <lh3i>H</lh3i>
         <li>HotFrog</li>
-        <li>I</li>
+        <h3>I</h3>
         <li>infobel.com</li>
         <li>Instagram</li>
-        <li>J</li>
-        <li>K</li>
+        <h3>J</h3>
+        <li>joeant.com</li>
+        <h3>K</h3>
         <li>klicktel.de (11880)</li>
         <li>Kompass</li>
         <li>koomio.com</li>
-        <li>L</li>
+        <h3>L</h3>
         <li>Lacartes</li>
         <li>LinkedIn</li>
         <li>lokaleauskunft.de (yellowmap)</li>
-        <li>M</li>
+        <h3>M</h3>
         <li>marktplatz-mittelstand.de</li>
         <li>meinestadt.de (dasoertliche)</li>
         <li>meinesuche.net</li>
         <li>mein-verzeichniseintrag.de</li>
-        <li>N</li>
-        <li>O</li>
-        <li>P</li>
+        <h3>N</h3>
+        <h3>O</h3>
+        <h3>P</h3>
         <li>Pinterest</li>
         <li>plus.google.com</li>
         <li>pointoo.de</li>
-        <li>Q</li>
+        <h3>Q</h3>
+        <li>qualigo.com</li>
         <li>Qype</li>
-        <li>R</li>
-        <li>S</li>
+        <h3>R</h3>
+        <h3>S</h3>
         <li>Showmelocal</li>
         <li>SmartGuy</li>
         <li>Spoke</li>
         <li>stadtbranchenbuch.com</li>
         <li>StreetDir</li>
         <li>StumbleUpon Bookmarks</li>
-        <li>T</li>
+        <h3>T</h3>
         <li>tomtom.com</li>
         <li>Tumblr</li>
         <li>Tupalo</li>
         <li>twitter.com</li>
-        <li>U</li>
+        <h3>U</h3>
         <li>uberall.com</li>
         <li>unternehmensauskunft.com</li>
         <li>unternehmensverzeichnis.org</li>
-        <li>V</li>
-        <li>W</li>
+        <h3>V</h3>
+        <h3>W</h3>
         <li>WAND</li>
         <li>World Business Directory (WBD)</li>
         <li>web.de</li>
@@ -2107,9 +2110,9 @@
         <li>WhoDoYou</li>
         <li>wikipedia</li>
         <li>wogibtswas.de</li>
-        <li>X</li>
+        <h3>X</h3>
         <li>Xing</li>
-        <li>Y</li>
+        <h3>Y</h3>
         <li>yahoo</li>
         <li>yalwa.de</li>
         <li>yellowmap.de</li>
@@ -2117,7 +2120,7 @@
         <li>yelp.de</li>
         <li>yext.com</li>
         <li>youtube.com</li>
-        <li>Z</li>
+        <h3>Z</h3>
         <li>PRESS RELEASE</li>
         <li>firmenpresse.de</li>
         <li>newsmax.com</li>
@@ -2137,13 +2140,40 @@
 <details>
     <summary>REVIEWS</summary>
     <ul>
+        <h3>A</h3>
+        <h3>B</h3>
+        <h3>C</h3>
         <li>Ciao.de</li>
+        <h3>D</h3>
         <li>Dooyoo.de</li>
+        <h3>E</h3>
         <li>Erfahrungen.com</li>
+        <h3>F</h3>
+        <h3>G</h3>
         <li>Google</li>
         <li>Google Places</li>
+        <h3>H</h3>
+        <h3>I</h3>
+        <h3>J</h3>
+        <h3>K</h3>
         <li>KennstDuEinen.de</li>
-        <li>Yelp/Qype</li>
+        <h3>L</h3>
+        <h3>M</h3>
+        <h3>N</h3>
+        <h3>O</h3>
+        <h3>P</h3>
+        <h3>Q</h3>
+        <li>Qype</li>
+        <h3>R</h3>
+        <h3>S</h3>
+        <h3>T</h3>
+        <h3>U</h3>
+        <h3>V</h3>
+        <h3>W</h3>
+        <h3>X</h3>
+        <h3>Y</h3>
+        <li>Yelp</li>
+        <h3>Z</h3>
         <li>. . .</li>
         <li> do you know more review pages? let us know. help us to grow and extend seo4all.</li>
     </ul>
@@ -2152,21 +2182,51 @@
 <details>
     <summary>SEO TOOLS</summary>
     <ul>
+        <h3>A</h3>
         <li>ahrefs Keyword Explorer</li>
         <li>Alexa's Keyword Research</li>
         <li>AMZ Tracker</li>
         <li>ANSWER THE PUBLIC</li>
+        <h3>B</h3>
         <li>bananacontent</li>
+        <li>Bing Webmaster Tools</li>
+        <h3>C</h3>
         <li>Can I Rank</li>
-        <li>Cognitive SEO</li>
+        <li>cognitiveseo.com</li>
+        <li>Copyscape</li>
+        <h3>D</h3>
+        <li>drlinkcheck.com</li>
+        <h3>E</h3>
+        <h3>F</h3>
         <li>FAQfox (WebpageFX)</li>
+        <h3>G</h3>
+        <li>getIndexed.io</li>
+        <li>G Maps Ranking Extractor</li>
+        <li>Google Alerts</li>
+        <li>Google Bulk Inspect URLs</li>
+        <li>Google Erweiterte Suche</li>
+        <li>Google Markup Helper</li>
+        <li>Google Mobile Page Speed Test</li>
+        <li>Google News Extractor
+</li>
+        <li>Google Search Console</li>
+        <li>Greenlane Google Indexation Tester</li>
         <li>GrepWords</li>
+        <li>Grid My Business</li>
+        <li>GSC Helper</li>
+        <li>GTmetrix</li>
+        <h3>H</h3>
+        <li>hreflang Generator</li>
         <li>H-supertools</li>
+        <li>HTTP Status Code Checker</li>
         <li>HyperSuggest</li>
+        <h3>I</h3>
         <li>Infinite Suggest</li>
         <li>InstaKeywords</li>
         <li>iSpionage</li>
+        <h3>J</h3>
         <li>Jaaxy</li>
+        <h3>K</h3>
         <li>K-META</li>
         <li>keylime toolbox</li>
         <li>Keys4up</li>
@@ -2176,6 +2236,7 @@
         <li>Keyword Keg</li>
         <li>Keyword Revealer</li>
         <li>Keyword Snatcher</li>
+        <li>Keyword Surfer</li>
         <li>Keyword Tool Dominator</li>
         <li>Keyword Hero</li>
         <li>Keyword.io</li>
@@ -2187,58 +2248,120 @@
         <li>KeywordPro</li>
         <li>Keyword Shitter</li>
         <li>KeywordTool.io</li>
+        <li>Keywords everywhere</li>
         <li>KNIME</li>
         <li>Kparser</li>
         <li>KWFinder.com</li>
+        <h3>L</h3>
+        <li>Lighthouse</li>
+        <li>Local SERP Checker</li>
         <li>Long Tail Pro</li>
         <li>LSI Graph</li>
+        <h3>M</h3>
+        <li>majestic.com</li>
         <li>Market Samurai</li>
         <li>MerchantWords</li>
         <li>MerchNinja</li>
+        <li>MetaCrawler</li>
+        <li>MetaGer</li>
         <li>Metric Tools</li>
+        <li>Microsoft SEO Toolkit</li>
+        <li>Mobile First Index Checker</li>
+        <li>Mobile Friendly Check</li>
+        <li>Mobile PageSpeed Test</li>
+        <li>Mobile SERP Test</li>
         <li>Moz Keyword Explorer</li>
+        <h3>N</h3>
+        <h3>O</h3>
+        <li>Onpage Monitoring Tool</li>
+        <li>OpenLinkProfiler</li>
         <li>OpenThesaurus</li>
-        <li>QuestionDB</li>
-        <li>RankTank</li>
+        <h3>P</h3>
+        <li>PageSpeed Insights</li>
         <li>Power Suggest Pro</li>
+        <h3>Q</h3>
+        <li>QuestionDB</li>
+        <h3>R</h3>
+        <li>RankTank Ranking Checker</li>
+        <li>Rich Result Test</li>
+        <li>Ryte</li>
+        <h3>S</h3>
+        <li>saney.com</li>
+        <li>Schema Markup Generator</li>
         <li>Scientific Seller</li>
         <li>ScrapeBox</li>
+        <li>Screaming Frog</li>
+        <li>searchanalyzer.io</li>
+        <li>searchanalyticsforsheets.com</li>
+        <li>Searchvolume.io</li>
         <li>SECockpit</li>
         <li>Seed Keywords</li>
         <li>semaGER</li>
         <li>SEMrush</li>
+        <li>SEMrush Sensor</li>
         <li>SEMScoop</li>
         <li>SEOBOOK</li>
-        <li>Squirrly</li>
+        <li>seochat</li>
+        <li>SEOdiver</li>
+        <li>SEOkicks</li>
         <li>SEO Scout</li>
         <li>SEO Explorer</li>
         <li>SEO REVIEW TOOLS</li>
         <li>SEOmonitor</li>
         <li>SEOlyze</li>
         <li>SEORCH</li>
+        <li>seospark.io</li>
+        <li>SEO Tools for Excel</li>
+        <li>SERP Keyword Extractor
+</li>
+        <li>SERP Scraper Google Docs</li>
+        <li>SERP Snippet Extractor
+</li>
         <li>SeoStack</li>
         <li>SERPWoo</li>
+        <li>Sheets for Marketers</li>
+        <li>Similarweb</li>
+        <li>Simple SERP Scraper</li>
         <li>Sistrix</li>
+        <li>SISTRIX SERP Snippet Generator</li>
+        <li>Sistrix Smart</li>
+        <li>Site Analyzer Pro</li>
+        <li>Siteliner</li>
+        <li>Structured Data Testing Tool</li>
         <li>sonar</li>
         <li>Soovle</li>
         <li>SpyFu</li>
-        <li>seochat</li>
+        <li>Squirrly</li>
+        <li>Squoosh</li>
         <li>StoryBase</li>
-        <li>Keyword Surfer</li>
+        <h3>T</h3>
         <li>TermExplorer</li>
         <li>TEXToptimizer</li>
         <li>Thesaurus.com</li>
         <li>Twinword Ideas</li>
+        <h3>U</h3>
         <li>Ubersuggest</li>
+        <h3>V</h3>
         <li>vidIQ</li>
         <li>Viral Launch</li>
         <li>Visual Thesaurus</li>
+        <h3>W</h3>
+        <li>w3.org/developers/tools/</li>
         <li>W-FRAGEN-TOOL.COM</li>
         <li>WebCEO</li>
+        <li>Web.dev</li>
+        <li>Wortliga</li>
         <li>Wordstream</li>
         <li>Wordtracker</li>
         <li>Wortschatz Uni Leipzig</li>
+        <h3>X</h3>
+        <li>XENU</li>
+        <li>xml-sitemaps.com</li>
+        <h3>Y</h3>
+        <li>Yahoo Yslow</li>
         <li>Yandex Keyword statistics</li>
+        <li>yslow.org</li>
+        <h3>Z</h3>
         <li>. . .</li>
         <li> do you know more review pages? let us know. help us to grow and extend seo4all.</li>
     </ul>
@@ -2247,6 +2370,32 @@
 <details>
     <summary>LEXICON (in progress)</summary>
     <ul>
+        <h3>A</h3>
+        <h3>B</h3>
+        <h3>C</h3>
+        <h3>D</h3>
+        <h3>E</h3>
+        <h3>F</h3>
+        <h3>G</h3>
+        <h3>H</h3>
+        <h3>I</h3>
+        <h3>J</h3>
+        <h3>K</h3>
+        <h3>L</h3>
+        <h3>M</h3>
+        <h3>N</h3>
+        <h3>O</h3>
+        <h3>P</h3>
+        <h3>Q</h3>
+        <h3>R</h3>
+        <h3>S</h3>
+        <h3>T</h3>
+        <h3>U</h3>
+        <h3>V</h3>
+        <h3>W</h3>
+        <h3>X</h3>
+        <h3>Y</h3>
+        <h3>Z</h3>
         <li>. . .</li>
     </ul>
 </details>
@@ -2257,15 +2406,12 @@
     <p>you are welcome. you can provide support in different ways:</p>
     <ul>
         <li>creating or extending checklists</li>
+        <li>creating or extending directories</li>
         <li>creating or extending documents (templates)</li>
         <li>creating or extending recommendations for action</li>
+        <li>creating or extending seo tools</li>
         <li>become a sponsor and donate, if you use seo4all or if you think, that seo4all is useful or if seo4all has given you a coffee cup's worth of benefits.</li>
     </ul>
-</details>
-
-<details>
-    <summary>how to become a sponsor of seo4all?</summary>
-    <p>you are welcome. just follow the link to <a href="https://donate.stripe.com/dR67tKff29ht3Cg145" target="_blank">give something back</a></p>
 </details>
 
 <details>
