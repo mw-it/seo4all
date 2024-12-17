@@ -2010,124 +2010,214 @@
         <h3>A</h3>
         <li>A-Zbusinessfinder</li>
         <li>Acxiom</li>
+        <li>Annuaire des Entreprises de France</li>
         <li>Apple Maps</li>
         <li>auskunft.de</li>
+        <li>AussieWeb</li>
         <h3>B</h3>
+        <li>B2BYellowpages.com</li>
+        <li>BBB</li>
+        <li>BBB.org</li>
         <li>belocal.de</li>
         <li>bing.de</li>
         <li>bingplaces.com</li>
         <li>BizAdee</li>
+        <li>BizCommunity.com</li>
+        <li>BizVotes.com</li>
         <li>blaue-branchen.de (yellowmap)</li>
+        <li>BOTW.org</li>
+        <li>Brabys.com</li>
         <li>branchenbuchdeutschland.de</li>
         <li>branchenbuchsuche.de</li>
         <li>branchenmorgen.de (yellowmap)</li>
         <li>Brownbook</li>
         <li>business-branchenbuch.de</li>
+        <li>Business Listings</li>
+        <li>BusinessZoom.co.nz</li>
         <h3>C</h3>
         <li>Callupcontact</li>
-        <li>city-map.com/de</li>
+        <li>CanadaOne</li>
+        <li>Central Index</li>
+        <li>ChamberOfCommerce.com</li>
+        <li>city-map.com</li>
+        <li>CitySquares.com</li>
+        <li>Cityvisitor.co.uk</li>
         <li>Cybo</li>
+        <li>Cylex</li>
         <h3>D</h3>
+        <li>Daily Record</li>
         <li>dasoertliche.de</li>
         <li>dastelefonbuch.de</li>
         <li>Delicious Bookmarks</li>
+        <li>DeTelefoongids</li>
         <li>Digg Bookmarks</li>
         <li>directory.ac</li>
+        <li>dLook</li>
         <li>dmoz</li>
         <h3>E</h3>
         <li>ExpressBusinessDirectory</li>
+        <li>EZLocal.com</li>
         <h3>F</h3>
         <li>facebook.com</li>
         <li>factual.com (foursquare)</li>
+        <li>FDF.pl</li>
+        <li>Finda.co.nz</li>
         <li>Find-Us-Here</li>
         <li>foursquare.com/city-guide</li>
         <li>freieauskunft.de (yellowmap)</li>
+        <li>FreeIndex.co.uk</li>
         <li>Fypie</li>
+        <li>Fyple</li>
         <h3>G</h3>
         <li>gelbeseiten.de</li>
+        <li>GetFave.com</li>
         <li>gimpsy.com</li>
         <li>gmx.net</li>
+        <li>GoldenPages.ie</li>
         <li>golocal.de</li>
         <li>google.com/intl/de/business</li>
         <li>Google Business Profile</li>
         <li>Google My Business</li>
         <li>Google Places</li>
         <li>goyellow.de</li>
+        <li>GuiaMais</li>
         <lh3i>H</lh3i>
         <li>HotFrog</li>
         <h3>I</h3>
+        <li>iBegin.com</li>
+        <li>Independent</li>
         <li>infobel.com</li>
+        <li>InSing</li>
+        <li>InsiderPages.com</li>
         <li>Instagram</li>
+        <li>IrelandYP</li>
         <h3>J</h3>
         <li>joeant.com</li>
         <h3>K</h3>
+        <li>Kennstdueinen</li>
         <li>klicktel.de (11880)</li>
         <li>Kompass</li>
         <li>koomio.com</li>
         <h3>L</h3>
         <li>Lacartes</li>
+        <li>LAnnuaire.fr</li>
         <li>LinkedIn</li>
+        <li>LinktoAdd.nl</li>
         <li>lokaleauskunft.de (yellowmap)</li>
+        <li>Local Business Guide</li>
+        <li>Local.com</li>
+        <li>Local.fr</li>
+        <li>LocalBD.co.nz</li>
+        <li>LocalSearch.ie</li>
         <h3>M</h3>
+        <li>Manta.com</li>
+        <li>mapquest.com</li>
         <li>marktplatz-mittelstand.de</li>
         <li>meinestadt.de (dasoertliche)</li>
         <li>meinesuche.net</li>
         <li>mein-verzeichniseintrag.de</li>
+        <li>MerchantCircle.com</li>
+        <li>MisterImprese</li>
+        <li>MisterWhat</li>
+        <li>MKB-Bedrijvengids</li>
+        <li>MyHuckelberry.com</li>
+        <li>MyLocalServices.co.uk</li>
+        <li>Mysheriff</li>
         <h3>N</h3>
+        <li>NAVITIME</li>
+        <li>NZSBDirectory.co.nz</li>
         <h3>O</h3>
+        <h3>Opendi</h3>
         <h3>P</h3>
+        <li>PagesJaunes</li>
+        <li>PaginasAmarillas.es</li>
         <li>Pinterest</li>
+        <li>PKT.pl</li>
         <li>plus.google.com</li>
+        <li>POIDB</li>
         <li>pointoo.de</li>
+        <li>ProfileCanada</li>
         <h3>Q</h3>
         <li>qualigo.com</li>
         <li>Qype</li>
         <h3>R</h3>
         <h3>S</h3>
-        <li>Showmelocal</li>
+        <li>SaleSpider</li>
+        <li>SaYellow.com</li>
+        <li>SearchLocal.nz</li>
+        <li>Scoot.co.uk</li>
+        <li>Showmelocal.com</li>
         <li>SmartGuy</li>
         <li>Spoke</li>
         <li>stadtbranchenbuch.com</li>
+        <li>StartLocal</li>
         <li>StreetDir</li>
         <li>StumbleUpon Bookmarks</li>
         <h3>T</h3>
+        <li>TeleListas</li>
+        <li>TheBestOf.co.uk</li>
+        <li>TheGreenBook</li>
+        <li>TheTradeFinder.co.uk</li>
+        <li>ThomsonLocal.com</li>
+        <li>ThreeBestRated.com</li>
+        <li>Todoenlaces.com</li>
         <li>tomtom.com</li>
+        <li>TouchLocal.com</li>
+        <li>Tripped.co.uk</li>
         <li>Tumblr</li>
         <li>Tupalo</li>
+        <li>Tuugo.us</li>
         <li>twitter.com</li>
         <h3>U</h3>
         <li>uberall.com</li>
+        <li>UK Small Business Directory</li>
         <li>unternehmensauskunft.com</li>
         <li>unternehmensverzeichnis.org</li>
         <h3>V</h3>
         <h3>W</h3>
+        <li>Wampit</li>
         <li>WAND</li>
-        <li>World Business Directory (WBD)</li>
         <li>web.de</li>
         <li>web2.cylex.de</li>
+        <li>Websites.ca</li>
         <li>werkenntdenbesten.de</li>
         <li>Where2Go</li>
         <li>WhoDoYou</li>
         <li>wikipedia</li>
         <li>wogibtswas.de</li>
+        <li>Word of Mouth</li>
+        <li>World Business Directory (WBD)</li>
         <h3>X</h3>
         <li>Xing</li>
         <h3>Y</h3>
-        <li>yahoo</li>
+        <li>Yabsta.ie</li>
+        <li>Yahoo</li>
+        <li>Yahoo Local</li>
         <li>yalwa.de</li>
+        <li>Yell.com</li>
+        <li>Yellowbook.com</li>
         <li>yellowmap.de</li>
         <li>Yellow Pages</li>
+        <li>YellowSA.co.za</li>
         <li>yelp.de</li>
+        <li>Yelu.sg</li>
         <li>yext.com</li>
         <li>youtube.com</li>
         <h3>Z</h3>
-        <li>PRESS RELEASE</li>
+        <li>Zenbu.co.nz</li>
+        <li>ZipLeaf</li>
+        <h3>PRESS RELEASE</h3>
         <li>firmenpresse.de</li>
         <li>newsmax.com</li>
         <li>presseanzeiger.de</li>
-        <li>OTHERS</li>
+        <h3>OTHERS</h3>
+        <li>118000.fr</li>
         <li>11880.com</li>
+        <li>11890.ie</li>
+        <li>118Information.co.uk</li>
+        <li>192.com</li>
         <li>2FindLocal</li>
+        <li>411.ca</li>
         <li>aligo.at</li>
         <li>sicherheits-berater.de</li>
         <li>sicheriminternet.de</li>
