@@ -2458,7 +2458,7 @@
 </details>
 
 <details>
-    <summary>LEXICON (in progress)</summary>
+    <summary>LEXICON</summary>
     <ul>
         <h3>A</h3>
         <h3>B</h3>
@@ -2505,23 +2505,24 @@
 </details>
 
 <details>
-    <summary>why supporting or sponsoring seo4all?</summary>
-    <p>seo4all is a project of <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a> under the <a href="https://github.com/mw-it/seo4all/blob/main/LICENSE.txt" target="_blank">MIT license</a>.</p>
+    <summary>Why supporting or sponsoring seo4all?</summary>
+    <p>seo4all is a project of <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a> under the <a href="https://github.com/mw-it/seo4all/blob/main/LICENSE.md" target="_blank">MIT license</a>.</p>
     <p>MW provides a lot of software and utilities as freeware for the web without requiring the users to pay any fee.</p>
-    <p>however, maintaining the web site, updating the existing utilities and releasing new utilities require to invest a fair amount of time and also money (especially for hosting).</p>
-    <p>do you use seo4all or do you find seo4all useful? has seo4all given you a coffee cup's worth of benefits this year?</p>
-    <p>make your decision and <a href="https://donate.stripe.com/dR67tKff29ht3Cg145" target="_blank">give something back</a>. with your donation you support the development of seo4all and other useful free software.</p>
-    <p>i greatly appreciate your support!</p>
-    <p>kind regards</p>
+    <p>However, maintaining the web site, updating the existing utilities and releasing new utilities require to invest a fair amount of time and also money (especially for hosting).</p>
+    <p>Do you use seo4all or do you find seo4all useful?</p>
+    <p>Make your decision. <a href="https://donate.stripe.com/dR67tKff29ht3Cg145" target="_blank">With your donation you support the development of seo4all and other useful free creations/projects/software/utilities.</a></p>
+    <p>I greatly appreciate your support!</p>
+    <p>Kind regards</p>
     <p><a href="https://github.com/mw-it" target="_blank">Walid Moussa (MW)</a></p>
 </details>
 
 ## find + follow + support
-+ <a href="https://seo4all.org" target="_blank">https://seo4all.org</a>
-+ <a href="mailto:mail@seo4all.org" target="_blank">Email</a>
-+ <a href="https://github.com/mw-it/seo4all" target="_blank">GitHub</a>
-+ <a href="https://donate.stripe.com/dR67tKff29ht3Cg145" target="_blank">Donation</a>
++ Web: <a href="https://seo4all.org" target="_blank">https://seo4all.org</a>
++ Email: <a href="mailto:mail@seo4all.org" target="_blank">Email</a>
++ GitHub: <a href="https://github.com/mw-it/seo4all" target="_blank">GitHub</a>
++ Donation: <a href="https://donate.stripe.com/dR67tKff29ht3Cg145" target="_blank">Donation-Link</a>
 
 ## copyright + license
-Copyright &copy; by <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a><br>
-Code released under the <a href="https://github.com/mw-it/seo4all/blob/main/LICENSE.txt" target="_blank">MIT license</a>.
+Creator: <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a> | <a href="https://github.com/mw-it" target="_blank">Walid Moussa (MW) on GitHub</a>
+
+Creation released under the <a href="https://github.com/mw-it/seo4all/blob/main/LICENSE.md" target="_blank">License For Humanity</a>.
