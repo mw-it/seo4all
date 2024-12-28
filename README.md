@@ -2490,25 +2490,46 @@
     </ul>
 </details>
 
-## faq
+## FAQ
 <details>
-    <summary>how can i support seo4all?</summary>
-    <p>you are welcome. you can provide support in different ways:</p>
+    <summary>What can I expect from seo4all?</summary>
+    <p>seo4all provides professional information and tools for Search Engine Optimization (SEO):</p>
     <ul>
-        <li>creating or extending checklists</li>
-        <li>creating or extending directories</li>
-        <li>creating or extending documents (templates)</li>
-        <li>creating or extending recommendations for action</li>
-        <li>creating or extending seo tools</li>
-        <li>become a sponsor and donate, if you use seo4all or if you think, that seo4all is useful or if seo4all has given you a coffee cup's worth of benefits.</li>
+        <li>Free tips and tricks</li>
+        <li>Free recommendations for action</li>
+        <li>Professional Audit (Checklist)</li>
+        <li>DIRECTORIES</li>
+        <li>BUSINESS LISTINGS</li>
+        <li>CATALOGS</li>
+        <li>SOCIAL MEDIA</li>
+        <li>Reviews</li>
+        <li>SEO book</li>
+        <li>SEO tools</li>
+        <li>Lexicon</li>
+        <li>...</li>
+    </ul>
+</details>
+
+<details>
+    <summary>How can I support seo4all?</summary>
+    <p>You are welcome. You can provide support in different ways:</p>
+    <ul>
+        <li>Creating or extending checklists</li>
+        <li>Creating or extending directories</li>
+        <li>Creating or extending documents (templates)</li>
+        <li>Creating or extending recommendations for action</li>
+        <li>Creating or extending seo tools</li>
+        <li>Become a sponsor and donate, if you use seo4all or if you think, that seo4all is useful.</li>
     </ul>
 </details>
 
 <details>
     <summary>Why supporting or sponsoring seo4all?</summary>
-    <p>seo4all is a project of <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a> under the <a href="https://github.com/mw-it/seo4all/blob/main/LICENSE.md" target="_blank">MIT license</a>.</p>
+    <p>seo4all is FREE FOR EVERYONE ! ! !</p>
+    <p>For personal and for commercial use.</p>
+    <p>seo4all is a project of <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a> under the <a href="https://github.com/mw-it/seo4all/blob/main/LICENSE.md" target="_blank">License For Humanity</a>.</p>
     <p>MW provides a lot of software and utilities as freeware for the web without requiring the users to pay any fee.</p>
-    <p>However, maintaining the web site, updating the existing utilities and releasing new utilities require to invest a fair amount of time and also money (especially for hosting).</p>
+    <p>However, maintaining the web sites, updating the existing utilities and releasing new utilities require to invest a fair amount of time and also money (especially for hosting).</p>
     <p>Do you use seo4all or do you find seo4all useful?</p>
     <p>Make your decision. <a href="https://donate.stripe.com/dR67tKff29ht3Cg145" target="_blank">With your donation you support the development of seo4all and other useful free creations/projects/software/utilities.</a></p>
     <p>I greatly appreciate your support!</p>
@@ -2516,13 +2537,16 @@
     <p><a href="https://github.com/mw-it" target="_blank">Walid Moussa (MW)</a></p>
 </details>
 
-## find + follow + support
-+ Web: <a href="https://seo4all.org" target="_blank">https://seo4all.org</a>
-+ Email: <a href="mailto:mail@seo4all.org" target="_blank">Email</a>
-+ GitHub: <a href="https://github.com/mw-it/seo4all" target="_blank">GitHub</a>
-+ Donation: <a href="https://donate.stripe.com/dR67tKff29ht3Cg145" target="_blank">Donation-Link</a>
+## Find + Follow + Support
+Web: <a href="https://seo4all.org" target="_blank">https://seo4all.org</a>
 
-## copyright + license
-Creator: <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a> | <a href="https://github.com/mw-it" target="_blank">Walid Moussa (MW) on GitHub</a>
+Email: <a href="mailto:mail@seo4all.org" target="_blank">Email</a>
+
+GitHub: <a href="https://github.com/mw-it/seo4all" target="_blank">GitHub</a>
+
+Donation: <a href="https://donate.stripe.com/dR67tKff29ht3Cg145" target="_blank">Donation-Link</a>
+
+## Copyright + License
+Author: <a href="https://walid-moussa.de" target="_blank">Walid Moussa (MW)</a> | <a href="https://github.com/mw-it" target="_blank">Walid Moussa (MW) on GitHub</a>
 
 Creation released under the <a href="https://github.com/mw-it/seo4all/blob/main/LICENSE.md" target="_blank">License For Humanity</a>.
